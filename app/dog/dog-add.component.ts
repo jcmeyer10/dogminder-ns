@@ -1,8 +1,8 @@
 import { Component, OnInit } from "@angular/core";
 import { ActivatedRoute } from "@angular/router";
 
-import { dog } from "./dog";
-import { dogService } from "./dog.service";
+import { Dog } from "./dog";
+import { DogService } from "./dog.service";
 
 @Component({
     selector: "ns-add",
