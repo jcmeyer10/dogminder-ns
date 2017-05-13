@@ -3,10 +3,10 @@ import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 import { AppRoutingModule } from "./app.routing";
 import { AppComponent } from "./app.component";
 
-import { ItemService } from "./item/item.service";
-import { ItemsComponent } from "./item/items.component";
-import { ItemDetailComponent } from "./item/item-detail.component";
-import { ItemAddComponent } from "./item/item-add.component";
+import { DogService } from "./dog/dog.service";
+import { DogsComponent } from "./dog/dogs.component";
+import { DogDetailComponent } from "./dog/dog-detail.component";
+import { DogAddComponent } from "./dog/dog-add.component";
 
 @NgModule({
     bootstrap: [
@@ -18,12 +18,12 @@ import { ItemAddComponent } from "./item/item-add.component";
     ],
     declarations: [
         AppComponent,
-        ItemsComponent,
-        ItemDetailComponent,
-        ItemAddComponent
+        DogsComponent,
+        DogDetailComponent,
+        DogAddComponent
     ],
     providers: [
-        ItemService
+        DogService
     ],
     schemas: [
         NO_ERRORS_SCHEMA

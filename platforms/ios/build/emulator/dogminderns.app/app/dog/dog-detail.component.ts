@@ -1,24 +1,24 @@
 import { Component, OnInit } from "@angular/core";
 import { ActivatedRoute } from "@angular/router";
 
-import { Item } from "./item";
-import { ItemService } from "./item.service";
+import { Dog } from "./dog";
+import { DogService } from "./dog.service";
 
 @Component({
     selector: "ns-details",
     moduleId: module.id,
-    templateUrl: "./item-detail.component.html",
+    templateUrl: "./dog-detail.component.html",
 })
-export class ItemDetailComponent implements OnInit {
-    item: Item;
+export class DogDetailComponent implements OnInit {
+    dog: Dog;
 
     constructor(
-        private itemService: ItemService,
+        private dogService: DogService,
         private route: ActivatedRoute
     ) { }
 
     ngOnInit(): void {
         const id = +this.route.snapshot.params["id"];
-        this.item = this.itemService.getItem(id);
+        this.dog = this.dogService.getDog(id);
     }
 }

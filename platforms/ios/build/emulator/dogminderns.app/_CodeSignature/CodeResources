@@ -218,59 +218,75 @@
 		</data>
 		<key>app/app.module.js</key>
 		<data>
-		JM2yk5wE1qpmvgspB64cEYHYvpE=
+		BtOpTepOAy4GHX9Ut6sldDGXJKs=
 		</data>
 		<key>app/app.module.ts</key>
 		<data>
-		0dpe1FKcG8aZLYb+Oqslr36qRDY=
+		c1X4MMMTN/JsrPNMRXVB8mxgQJQ=
 		</data>
 		<key>app/app.routing.js</key>
 		<data>
-		JLrBpWYBXPo3dV0dMaodSbtIa0o=
+		Ha2DVlBfDij4Lg3ihW/tCfPV2Gs=
 		</data>
 		<key>app/app.routing.ts</key>
 		<data>
-		1djM2r+liuFyYnS+5dZNwlU/c3E=
+		VtTkECbag/ZeAOR5voKveYQckD0=
 		</data>
-		<key>app/item/item-detail.component.html</key>
+		<key>app/dog/dog-add.component.css</key>
 		<data>
-		LJqXoj2fghFSy1rBuN+FBDAxHmM=
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 		</data>
-		<key>app/item/item-detail.component.js</key>
+		<key>app/dog/dog-add.component.html</key>
 		<data>
-		See88MP+hj6ckwauLNV5+io0Occ=
+		LcfgR3e1hiwPJyWgVo2ior3p3Yk=
 		</data>
-		<key>app/item/item-detail.component.ts</key>
+		<key>app/dog/dog-add.component.js</key>
 		<data>
-		WI/no9tXYi6q4T1ki6xFsHcrecw=
+		B3JPQa0qWP06CEffQlwJv1LQBEo=
 		</data>
-		<key>app/item/item.js</key>
+		<key>app/dog/dog-add.component.ts</key>
 		<data>
-		rSXXgZX8iLf0dMTpxW4OIWw9mYc=
+		aT9T8JA/b5VrS0Rd/21yWxWb5fQ=
 		</data>
-		<key>app/item/item.service.js</key>
+		<key>app/dog/dog-detail.component.html</key>
 		<data>
-		H57+e4NBXeQ+pmfQv7PY30uDprA=
+		PwxshOtkfuM8UWsiMl7cYxxYPHQ=
 		</data>
-		<key>app/item/item.service.ts</key>
+		<key>app/dog/dog-detail.component.js</key>
 		<data>
-		aEGKBYpaVjmcuGhGLfKS1/f9+oE=
+		HQZVb0UZThu0lMXRyD8fms/bWwY=
 		</data>
-		<key>app/item/item.ts</key>
+		<key>app/dog/dog-detail.component.ts</key>
 		<data>
-		aL+OQHeheMJJbN8UbEcwudBbWlw=
+		8pweQCUhdAdueIsKm49S9kWuOLE=
 		</data>
-		<key>app/item/items.component.html</key>
+		<key>app/dog/dog.js</key>
 		<data>
-		j9YDkynxYueekk+WaQyj4XCMqt0=
+		TEWttEnknNsoAk2pQXYTUqJwl1Q=
 		</data>
-		<key>app/item/items.component.js</key>
+		<key>app/dog/dog.service.js</key>
 		<data>
-		OwLMOkGaJYeYtrXdh4zHwIkHLbo=
+		QmCGVzKrVtFb747IfGk19n4hoO4=
 		</data>
-		<key>app/item/items.component.ts</key>
+		<key>app/dog/dog.service.ts</key>
 		<data>
-		DcNsq9lzgLSPHvz7KpPHiDtKEwA=
+		KKvKoL5VgURccvhitn63TICPR44=
+		</data>
+		<key>app/dog/dog.ts</key>
+		<data>
+		5SXPpvtUOpolWziIC/02uvEAk7g=
+		</data>
+		<key>app/dog/dogs.component.html</key>
+		<data>
+		VKqxN/qL8J6vGN9iOyih5IWYf94=
+		</data>
+		<key>app/dog/dogs.component.js</key>
+		<data>
+		Ap4+dHm4lYys7JV7slJxTNK7f/M=
+		</data>
+		<key>app/dog/dogs.component.ts</key>
+		<data>
+		FWac+9OpnVcpBzB3Zhf+oaNFN8Q=
 		</data>
 		<key>app/main.aot.ts</key>
 		<data>
@@ -290,23 +306,23 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations.es5.js</key>
 		<data>
-		ECNEG7J5fUY/tBGyAzvXpzUnh1E=
+		Es4dp7ycLS+zPlHaeKQ4NY/AgEY=
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations.es5.js.map</key>
 		<data>
-		b3RItYD+05J2g9hgTr67P0do7mA=
+		WxGaPi15AD4JXq2iwN8oprKWMC4=
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations.js</key>
 		<data>
-		T+KSpkH8NFOmpX9IT5p8HbbdhTk=
+		d2GvqbFgthxVA4cMklRkJNR+goc=
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations.js.map</key>
 		<data>
-		Uj5tRaGHdyvOeqD4boXnlq+ubKc=
+		iIwCEcUePRzUGj8ZOulCAaxl6lU=
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser.es5.js</key>
 		<data>
-		9QDm6tWDvTEFEyTglQYKWketsg4=
+		vpnH4hNgr7obvQUJnULSkHN9P2I=
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser.es5.js.map</key>
 		<data>
@@ -314,7 +330,7 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser.js</key>
 		<data>
-		uAdt7BngFjklJUzM1pkDSioM/fQ=
+		T4UiZEYXTVJt+pd5aIuZHxpJplg=
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser.js.map</key>
 		<data>
@@ -322,7 +338,7 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser/testing.es5.js</key>
 		<data>
-		3R4TiDIOrrT2n0MJ4ahb6ruEMM0=
+		BD2a4q24JrS57fmuz7cSi5E+BoM=
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser/testing.es5.js.map</key>
 		<data>
@@ -330,7 +346,7 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser/testing.js</key>
 		<data>
-		g7ROrxqqK/HqrkhwSovLOdaX7AE=
+		JVgBmzZl/U7e7UXHQWFtvOZdrrs=
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser/testing.js.map</key>
 		<data>
@@ -350,7 +366,7 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/browser.d.ts</key>
 		<data>
-		O0l9mTrOQMXaIxwX6QWIWOtiVsg=
+		K1aKYHvJ6sq5kVe/cSp/evXTbzY=
 		</data>
 		<key>app/tns_modules/@angular/animations/browser.metadata.json</key>
 		<data>
@@ -466,7 +482,7 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/browser/testing.d.ts</key>
 		<data>
-		7zZXqC3KNH4RaaRYM7jnkr2ab24=
+		klE0+rjT+n5EuXhpfaAybsOLtuI=
 		</data>
 		<key>app/tns_modules/@angular/animations/browser/testing.metadata.json</key>
 		<data>
@@ -502,7 +518,7 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser-testing.umd.js</key>
 		<data>
-		p86beYhg+Z+M1FmH9L89jvRkTE8=
+		sNZLv+Pim5428JrAZlv1/uTr4tA=
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser-testing.umd.js.map</key>
 		<data>
@@ -510,7 +526,7 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser-testing.umd.min.js</key>
 		<data>
-		9Xtk2Qb+hTgZkkmaWudMhMoYdFI=
+		UIBYbOj3hQ3mBKJAjbvWvNPJQY8=
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser-testing.umd.min.js.map</key>
 		<data>
@@ -518,7 +534,7 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser.umd.js</key>
 		<data>
-		eUxclaUz0p9+sOntcST2RY++tQY=
+		Z8piyAp40Ih2A1uIvPvXDg/wKyw=
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser.umd.js.map</key>
 		<data>
@@ -526,7 +542,7 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser.umd.min.js</key>
 		<data>
-		A+XYGG0uwJzKDLVEJgB3RajIL1U=
+		pWUKprB9MNBDbCxU+c2f6OWLQlQ=
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser.umd.min.js.map</key>
 		<data>
@@ -534,23 +550,23 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations.umd.js</key>
 		<data>
-		uVLMm4ny+IEgnynlyBk7vcxqz3c=
+		hZNjJ2FKNdHo1ExFZQbdO0a3kiw=
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations.umd.js.map</key>
 		<data>
-		Ll6KrFS+eUl36RyxefhDU/L6OWs=
+		MmMxICUcXeffMzqHjq01BS2nT+U=
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations.umd.min.js</key>
 		<data>
-		mO0gAp3gNO23Qha7aHx8Yf0FSs4=
+		Ndc+uzU5DLxSH6MErsHnTpeIzYY=
 		</data>
 		<key>app/tns_modules/@angular/animations/bundles/animations.umd.min.js.map</key>
 		<data>
-		RZH2iefQZ/0sVetcLhcLiwaRo3g=
+		n+NZdeT363tJRkFf1HwPMfZdwtc=
 		</data>
 		<key>app/tns_modules/@angular/animations/package.json</key>
 		<data>
-		RYbVT47f9ObwYBLa9Up8nRgMwLA=
+		nuAObcSDuTyOyPVcy3qQ2+nwAio=
 		</data>
 		<key>app/tns_modules/@angular/animations/public_api.d.ts</key>
 		<data>
@@ -562,7 +578,7 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/src/animation_metadata.d.ts</key>
 		<data>
-		SlZ+vqrLFUfCgC/eQdmJfBstZHo=
+		R7yg702pD/G5eQ9IThgP9xvnXac=
 		</data>
 		<key>app/tns_modules/@angular/animations/src/animations.d.ts</key>
 		<data>
@@ -586,23 +602,23 @@
 		</data>
 		<key>app/tns_modules/@angular/common/@angular/common.es5.js</key>
 		<data>
-		ZxajO2nRDSK91bmkB6tAsXI9/oY=
+		0uqfNryjtWN0uclx3lrvG2mF2uE=
 		</data>
 		<key>app/tns_modules/@angular/common/@angular/common.es5.js.map</key>
 		<data>
-		wpRsQZrWLcANeRjuKYNlo/MrJGI=
+		Awzlvv9ak9I1ggywPXNif4HJBOM=
 		</data>
 		<key>app/tns_modules/@angular/common/@angular/common.js</key>
 		<data>
-		EoeA/KB5xkWg9xsfrzgPoEduOH4=
+		4bpoulpSgxtHP36JRxXlA9kb5xI=
 		</data>
 		<key>app/tns_modules/@angular/common/@angular/common.js.map</key>
 		<data>
-		yNxgPZI5yg5bMKkPp7JzvJCbgMc=
+		MrZd7UcQwhlylkT5zUDFonRSwio=
 		</data>
 		<key>app/tns_modules/@angular/common/@angular/common/testing.es5.js</key>
 		<data>
-		0IpYAbf06popZUDHZJBdwxDk5WI=
+		IB0JRwxogotrXYpuz9M+xpOnNJU=
 		</data>
 		<key>app/tns_modules/@angular/common/@angular/common/testing.es5.js.map</key>
 		<data>
@@ -610,7 +626,7 @@
 		</data>
 		<key>app/tns_modules/@angular/common/@angular/common/testing.js</key>
 		<data>
-		qT6XSS81yMMtKjwr0jhBN8uWgbg=
+		EMPThNZNeuR5YpVnu2uZwGGNxC4=
 		</data>
 		<key>app/tns_modules/@angular/common/@angular/common/testing.js.map</key>
 		<data>
@@ -622,7 +638,7 @@
 		</data>
 		<key>app/tns_modules/@angular/common/bundles/common-testing.umd.js</key>
 		<data>
-		YPKW9xJwoANurxJ1uSGfLB0FiTk=
+		v/hNWYbozh/uHSbEOvZp1JCo7MM=
 		</data>
 		<key>app/tns_modules/@angular/common/bundles/common-testing.umd.js.map</key>
 		<data>
@@ -630,7 +646,7 @@
 		</data>
 		<key>app/tns_modules/@angular/common/bundles/common-testing.umd.min.js</key>
 		<data>
-		MC2a93lMBRZy47JH0c3COUCBlJY=
+		HvYtEN9SnxFqD5gRdL0CEFa8t5g=
 		</data>
 		<key>app/tns_modules/@angular/common/bundles/common-testing.umd.min.js.map</key>
 		<data>
@@ -638,7 +654,7 @@
 		</data>
 		<key>app/tns_modules/@angular/common/bundles/common.umd.js</key>
 		<data>
-		so+XFd3XkwayumzhFpmuabvTJfs=
+		lxC0Iovd78GfeRqjhvvKEzyU4KE=
 		</data>
 		<key>app/tns_modules/@angular/common/bundles/common.umd.js.map</key>
 		<data>
@@ -646,7 +662,7 @@
 		</data>
 		<key>app/tns_modules/@angular/common/bundles/common.umd.min.js</key>
 		<data>
-		KmMo+76hIdssMQtSZra1QZqmPEQ=
+		ee7CZPcohqt3c2BkVZaitWuXhZs=
 		</data>
 		<key>app/tns_modules/@angular/common/bundles/common.umd.min.js.map</key>
 		<data>
@@ -658,11 +674,11 @@
 		</data>
 		<key>app/tns_modules/@angular/common/common.metadata.json</key>
 		<data>
-		ElZMmrjoyQIT3FDjrCIIcKL5h8k=
+		eG/YkDHPB62fM9rg7JXH0PkFBV8=
 		</data>
 		<key>app/tns_modules/@angular/common/package.json</key>
 		<data>
-		yQpTzFCnBLpSnizrI/U8R96+0Zk=
+		9DwBSbls7KKZ7/DOtRdUd/FgkGw=
 		</data>
 		<key>app/tns_modules/@angular/common/public_api.d.ts</key>
 		<data>
@@ -794,7 +810,7 @@
 		</data>
 		<key>app/tns_modules/@angular/common/testing.d.ts</key>
 		<data>
-		7zZXqC3KNH4RaaRYM7jnkr2ab24=
+		klE0+rjT+n5EuXhpfaAybsOLtuI=
 		</data>
 		<key>app/tns_modules/@angular/common/testing.metadata.json</key>
 		<data>
@@ -838,23 +854,23 @@
 		</data>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler.es5.js</key>
 		<data>
-		bUXV8sPy9hQA3U782DqJ9aS8bVE=
+		v9qVE6OxwG1hvu6eJAc2/4R7jME=
 		</data>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler.es5.js.map</key>
 		<data>
-		xvUaxjXylyzIlege0OvqCZ7p5IY=
+		dfgCgehbsYoRyRcyoL7Q5IOVOe4=
 		</data>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler.js</key>
 		<data>
-		lukYIxbOuDGOV3iO0oOJJ3/AiA8=
+		3IBkUcJTmvQhuckfCp1AGro4pCg=
 		</data>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler.js.map</key>
 		<data>
-		lUFH23JAcdqDFfW5WrqXQc4gLZg=
+		uSZ+h+vFw+0pELtbUEjiTwvI/8c=
 		</data>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler/testing.es5.js</key>
 		<data>
-		5R8lD1abcXdzPouPwCJuzvgzgo8=
+		rFYXUqRqemwhVNHzowmr6S2C+7o=
 		</data>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler/testing.es5.js.map</key>
 		<data>
@@ -862,7 +878,7 @@
 		</data>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler/testing.js</key>
 		<data>
-		0DTzUxZr6CkElrUdkQk0npvHSPo=
+		YsOI4XM2RoEJwdme2zY5+cpWFkQ=
 		</data>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler/testing.js.map</key>
 		<data>
@@ -874,7 +890,7 @@
 		</data>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler-testing.umd.js</key>
 		<data>
-		eLjGuP06Hql8to6qpTmNVJCkzso=
+		CBWo4nlhtn6+J0ar0dhs6JL8yKU=
 		</data>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler-testing.umd.js.map</key>
 		<data>
@@ -882,7 +898,7 @@
 		</data>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler-testing.umd.min.js</key>
 		<data>
-		k6Dw+s31SXeSU5/Uqlrxpvrk4gI=
+		WbLylY8TPw5EEylmoGzjK+aw/wo=
 		</data>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler-testing.umd.min.js.map</key>
 		<data>
@@ -890,19 +906,19 @@
 		</data>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler.umd.js</key>
 		<data>
-		5nFRNHvTxca0c7HZi2D7ZcO6UGg=
+		TpayMNiP1xDiC7HDoIYmzvahIx0=
 		</data>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler.umd.js.map</key>
 		<data>
-		8QB5ZBPv4uWnuxh6YKFPmuQKorw=
+		tH0qhhpl68/janTvqZWIhopnTEc=
 		</data>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler.umd.min.js</key>
 		<data>
-		hlOjQHz0zy1y4GQR/dsj2sNn0y8=
+		aq3btqdKn8DUSfuSXQ/h8ajpLLk=
 		</data>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler.umd.min.js.map</key>
 		<data>
-		odhLK3YhZKKPIgS6wWFY1xd4hR8=
+		gE/9b36l6EtjG83m5EC8NhY+IUY=
 		</data>
 		<key>app/tns_modules/@angular/compiler/compiler.d.ts</key>
 		<data>
@@ -914,7 +930,7 @@
 		</data>
 		<key>app/tns_modules/@angular/compiler/package.json</key>
 		<data>
-		z25yKQJXDwJHGTv2g/KaBLMjxdc=
+		dj3EH24x2Oex027wV1JGFUm4HzE=
 		</data>
 		<key>app/tns_modules/@angular/compiler/src/aot/compiler.d.ts</key>
 		<data>
@@ -1158,7 +1174,7 @@
 		</data>
 		<key>app/tns_modules/@angular/compiler/src/i18n/message_bundle.d.ts</key>
 		<data>
-		SGhD2xNZ88+CuzO3BtHybLz5KIg=
+		soRTm0jUmD23zl1GcEG1i8CszY4=
 		</data>
 		<key>app/tns_modules/@angular/compiler/src/i18n/message_bundle.metadata.json</key>
 		<data>
@@ -1610,7 +1626,7 @@
 		</data>
 		<key>app/tns_modules/@angular/compiler/src/version.metadata.json</key>
 		<data>
-		wgBRtaX3kk1ZS040rh83DdrWeZ8=
+		0/25uuw+daoakNjKbBDIVhrF46o=
 		</data>
 		<key>app/tns_modules/@angular/compiler/src/view_compiler/view_compiler.d.ts</key>
 		<data>
@@ -1622,7 +1638,7 @@
 		</data>
 		<key>app/tns_modules/@angular/compiler/testing.d.ts</key>
 		<data>
-		7zZXqC3KNH4RaaRYM7jnkr2ab24=
+		klE0+rjT+n5EuXhpfaAybsOLtuI=
 		</data>
 		<key>app/tns_modules/@angular/compiler/testing.metadata.json</key>
 		<data>
@@ -1690,23 +1706,23 @@
 		</data>
 		<key>app/tns_modules/@angular/core/@angular/core.es5.js</key>
 		<data>
-		Vx1xIS6+weEed2fLpxh2egr2lOA=
+		5Bey1cTpUOpzzznD/2+Co+DE5Qg=
 		</data>
 		<key>app/tns_modules/@angular/core/@angular/core.es5.js.map</key>
 		<data>
-		f3GRNKYhtkoYtiQ1QQAROhwQP2A=
+		C4sK11MjBZTQjnCVirkbVs9xcDc=
 		</data>
 		<key>app/tns_modules/@angular/core/@angular/core.js</key>
 		<data>
-		BWt3o8xV0pktNsZLOwhO6hViHU4=
+		QBvKcWLecAfnsLT/NCsqlU9RFPU=
 		</data>
 		<key>app/tns_modules/@angular/core/@angular/core.js.map</key>
 		<data>
-		2s8qyNVSociL53pfgNzZ0fKI2yA=
+		rDPPOnzEpwTe9vAijhtTDxL/G7Q=
 		</data>
 		<key>app/tns_modules/@angular/core/@angular/core/testing.es5.js</key>
 		<data>
-		piMdyTjBs7APOg0SldtVeDs/Thg=
+		GNIauS3TVO06mP9XOvPphD8B2T8=
 		</data>
 		<key>app/tns_modules/@angular/core/@angular/core/testing.es5.js.map</key>
 		<data>
@@ -1714,7 +1730,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/@angular/core/testing.js</key>
 		<data>
-		zjfmFk5R3/axW23MyT8XeKlRioU=
+		osE7s93gVsNAW7OClTs6LddCDAI=
 		</data>
 		<key>app/tns_modules/@angular/core/@angular/core/testing.js.map</key>
 		<data>
@@ -1726,7 +1742,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/bundles/core-testing.umd.js</key>
 		<data>
-		yS6Dwrya7CZObFtEjAzsrBZlrkQ=
+		dtkDZTPA4324IDRNVZcqQ+MJH/w=
 		</data>
 		<key>app/tns_modules/@angular/core/bundles/core-testing.umd.js.map</key>
 		<data>
@@ -1734,7 +1750,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/bundles/core-testing.umd.min.js</key>
 		<data>
-		zQkNUxOK4kqgsg4piX+whYG8aNo=
+		c37j5NdEjomP4pltfb7sTRRivZE=
 		</data>
 		<key>app/tns_modules/@angular/core/bundles/core-testing.umd.min.js.map</key>
 		<data>
@@ -1742,19 +1758,19 @@
 		</data>
 		<key>app/tns_modules/@angular/core/bundles/core.umd.js</key>
 		<data>
-		1NX4Bla82cnLq9qNQ4PV/L8w2wk=
+		J308AbcZxo56nMfHYnA0SHqVNik=
 		</data>
 		<key>app/tns_modules/@angular/core/bundles/core.umd.js.map</key>
 		<data>
-		25/fAPoeYpj4ihkAfrLBcP4mLpE=
+		5m1sCEYUnHv8T+k66NxSWcRlP10=
 		</data>
 		<key>app/tns_modules/@angular/core/bundles/core.umd.min.js</key>
 		<data>
-		vsOhBWlQY8UKiWMd1+LEqnZEfJk=
+		jEqAxl38Qb3JQtM66JEEtFaAPSw=
 		</data>
 		<key>app/tns_modules/@angular/core/bundles/core.umd.min.js.map</key>
 		<data>
-		G751e+HGvL4kowG81x7iNhOMHKs=
+		DBNWD8Ld0aAGgu9kTPd6L7QZeWI=
 		</data>
 		<key>app/tns_modules/@angular/core/core.d.ts</key>
 		<data>
@@ -1762,11 +1778,11 @@
 		</data>
 		<key>app/tns_modules/@angular/core/core.metadata.json</key>
 		<data>
-		cSSGnSDAISllXfUmazi5JHPG9sA=
+		h4zgWqteYVookuj6BqrXapExXV8=
 		</data>
 		<key>app/tns_modules/@angular/core/package.json</key>
 		<data>
-		NX/JXBlYU6hsIZDDEUh3KXMZkS8=
+		6s3gBA1MwW91lnVXVovtkl4V65c=
 		</data>
 		<key>app/tns_modules/@angular/core/public_api.d.ts</key>
 		<data>
@@ -1778,7 +1794,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/src/animation/dsl.d.ts</key>
 		<data>
-		SlZ+vqrLFUfCgC/eQdmJfBstZHo=
+		R7yg702pD/G5eQ9IThgP9xvnXac=
 		</data>
 		<key>app/tns_modules/@angular/core/src/application_init.d.ts</key>
 		<data>
@@ -1874,7 +1890,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/src/di/metadata.d.ts</key>
 		<data>
-		cCzRHDsIWvIOJwpitwhWxg7uLgI=
+		6OjUa6YSlYIPt3oqfTQN2OR8TK8=
 		</data>
 		<key>app/tns_modules/@angular/core/src/di/provider.d.ts</key>
 		<data>
@@ -1886,7 +1902,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/src/di/reflective_injector.d.ts</key>
 		<data>
-		Geqv511K/q8varn7g0cD8XqWDxc=
+		EDLIzjaxUZwHMEP2+CINVpOws/o=
 		</data>
 		<key>app/tns_modules/@angular/core/src/di/reflective_key.d.ts</key>
 		<data>
@@ -1906,7 +1922,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/src/event_emitter.d.ts</key>
 		<data>
-		EMrMMAfOqYnNW2WCpC9twXIpgXk=
+		ozIXksYM4rX6bz18EdehcBerMaI=
 		</data>
 		<key>app/tns_modules/@angular/core/src/i18n/tokens.d.ts</key>
 		<data>
@@ -1982,7 +1998,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/src/metadata/view.d.ts</key>
 		<data>
-		Yxg1sd3bm5mvJaTnDXyQZTwn/5k=
+		bb5jEtEkVFNxpNUeIOZl3NWyvJA=
 		</data>
 		<key>app/tns_modules/@angular/core/src/platform_core_providers.d.ts</key>
 		<data>
@@ -2026,7 +2042,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/src/render/api.d.ts</key>
 		<data>
-		ln9nUxzd4nreuEwUJhISc6iiXcY=
+		+IPY33ZwhlDhcEqk4XgXT0+KIB0=
 		</data>
 		<key>app/tns_modules/@angular/core/src/security.d.ts</key>
 		<data>
@@ -2102,11 +2118,11 @@
 		</data>
 		<key>app/tns_modules/@angular/core/src/view/types.d.ts</key>
 		<data>
-		jSI7cDDtheaGf1RICrIH9L8fQXA=
+		ipqdIDthFP0wK4ZAJGWojb30FfY=
 		</data>
 		<key>app/tns_modules/@angular/core/src/view/util.d.ts</key>
 		<data>
-		9dTM5xF7jZYXCWRNgoOEj5fnrTc=
+		rTsyGWEzXfFLzf7Ra413ufyRu1Q=
 		</data>
 		<key>app/tns_modules/@angular/core/src/view/view.d.ts</key>
 		<data>
@@ -2114,7 +2130,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/src/view/view_attach.d.ts</key>
 		<data>
-		ZLrYKv1RjgBOLhTLAUEOuooTlDU=
+		CRExg/z1NfibZat4TLInsw9zvrs=
 		</data>
 		<key>app/tns_modules/@angular/core/src/zone.d.ts</key>
 		<data>
@@ -2126,7 +2142,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/testing.d.ts</key>
 		<data>
-		7zZXqC3KNH4RaaRYM7jnkr2ab24=
+		klE0+rjT+n5EuXhpfaAybsOLtuI=
 		</data>
 		<key>app/tns_modules/@angular/core/testing.metadata.json</key>
 		<data>
@@ -2222,19 +2238,19 @@
 		</data>
 		<key>app/tns_modules/@angular/forms/@angular/forms.es5.js</key>
 		<data>
-		/FxWJ+JUsnbcMrM9qdF22XVeCHU=
+		BJEUnCZcQxjobldG6VXXD0mg+sk=
 		</data>
 		<key>app/tns_modules/@angular/forms/@angular/forms.es5.js.map</key>
 		<data>
-		VKw3oqm7izREwFZ+E75nv4uzns8=
+		Cp78LBRbmXQ6TVYq4TD9EmA59mI=
 		</data>
 		<key>app/tns_modules/@angular/forms/@angular/forms.js</key>
 		<data>
-		uY4eOHlXo8OR7mVAxBsaOZI/8vI=
+		SaPCAa6nbxd76QUBoSvHZEmvrNM=
 		</data>
 		<key>app/tns_modules/@angular/forms/@angular/forms.js.map</key>
 		<data>
-		8xiGaAnvsMRqCIXrcPmZ5A0ywMQ=
+		D0+DPctsGoiNAOX3g4rQ4p5aKiw=
 		</data>
 		<key>app/tns_modules/@angular/forms/README.md</key>
 		<data>
@@ -2242,19 +2258,19 @@
 		</data>
 		<key>app/tns_modules/@angular/forms/bundles/forms.umd.js</key>
 		<data>
-		BId9XiebiFlDV8uMTJQ2l8FFMDE=
+		7HGPGgdRK4ILMdBoS85Z+uaIbuo=
 		</data>
 		<key>app/tns_modules/@angular/forms/bundles/forms.umd.js.map</key>
 		<data>
-		klYkzfaUZkrSNApI+1daDmDTBag=
+		5TpMgGXx8Zc2WR7QSIpCGzu2oGA=
 		</data>
 		<key>app/tns_modules/@angular/forms/bundles/forms.umd.min.js</key>
 		<data>
-		6XJHEk/p+nsMtKAu0zB0e+EhTic=
+		jX+Jz7Nc6WoIoehKSkurG2/cNNw=
 		</data>
 		<key>app/tns_modules/@angular/forms/bundles/forms.umd.min.js.map</key>
 		<data>
-		KldHGFQSRHzk9hldqSDeR9n3wDU=
+		20RxA1nc3m9OVn4e/TzEJDxedwM=
 		</data>
 		<key>app/tns_modules/@angular/forms/forms.d.ts</key>
 		<data>
@@ -2262,11 +2278,11 @@
 		</data>
 		<key>app/tns_modules/@angular/forms/forms.metadata.json</key>
 		<data>
-		SuVOJp+AFu1NkdS17Jk7NWiL3fc=
+		uLD/OX2+rK8zhsuPoHwUM7X2xx0=
 		</data>
 		<key>app/tns_modules/@angular/forms/package.json</key>
 		<data>
-		lHS5I8AuR4dMSpjHOL2MdSCpBaM=
+		9qVFkLbUKuKbWmJwHfYaOF3dqvU=
 		</data>
 		<key>app/tns_modules/@angular/forms/public_api.d.ts</key>
 		<data>
@@ -2362,7 +2378,7 @@
 		</data>
 		<key>app/tns_modules/@angular/forms/src/directives/reactive_directives/form_group_name.d.ts</key>
 		<data>
-		qFhTG2BDzmF0/1dx5G+hkgGVPsU=
+		FTWJMpmvavJRzP3dlVZSCqENJok=
 		</data>
 		<key>app/tns_modules/@angular/forms/src/directives/reactive_errors.d.ts</key>
 		<data>
@@ -2402,7 +2418,7 @@
 		</data>
 		<key>app/tns_modules/@angular/forms/src/model.d.ts</key>
 		<data>
-		8OeQpDLh1X3svQBaQSlbyvd1DaA=
+		EN4EVoHF5FJl52UdGgyF2l4pm0I=
 		</data>
 		<key>app/tns_modules/@angular/forms/src/validators.d.ts</key>
 		<data>
@@ -2414,35 +2430,35 @@
 		</data>
 		<key>app/tns_modules/@angular/http/@angular/http.es5.js</key>
 		<data>
-		kxAR8Heu9P28N0hGocP/PcdqxSA=
+		Mja+PTXUnardrkZTg07FpJ6FK5I=
 		</data>
 		<key>app/tns_modules/@angular/http/@angular/http.es5.js.map</key>
 		<data>
-		4tK+UzyMteXJDD1kxcSo9qwpDuE=
+		HzO+uzs36/J9Ng0Tg3EB2xGROns=
 		</data>
 		<key>app/tns_modules/@angular/http/@angular/http.js</key>
 		<data>
-		S0tteSOkzVehpPN7pywag4Pftu4=
+		TdcddD604g3ypsZZunEZITXXAGk=
 		</data>
 		<key>app/tns_modules/@angular/http/@angular/http.js.map</key>
 		<data>
-		cwAr+Lupls+zXbClQ5HNSa8u/p4=
+		kZ2A1k8owo17cYOkHwXeBOT8mNU=
 		</data>
 		<key>app/tns_modules/@angular/http/@angular/http/testing.es5.js</key>
 		<data>
-		I3MqsByxNSffY0S2CM2SUaqfhe4=
+		fovtUwrQksTuCY8dASrFxRHwBi4=
 		</data>
 		<key>app/tns_modules/@angular/http/@angular/http/testing.es5.js.map</key>
 		<data>
-		Qa9JszvPNHtXf+pV1PtDZOs64Mc=
+		aNHVDjDsQ6UkLFZU/eK0//At/lc=
 		</data>
 		<key>app/tns_modules/@angular/http/@angular/http/testing.js</key>
 		<data>
-		zm86spChs67d53nGG9kvv60rVfI=
+		qwwBEpEY0W4eQWNSMzLdKJ7feNs=
 		</data>
 		<key>app/tns_modules/@angular/http/@angular/http/testing.js.map</key>
 		<data>
-		Q3ymqU72I1Zs6A0U+THDcQCLhRk=
+		TsIgz6CFRQMnfM/bDy0dgdO16as=
 		</data>
 		<key>app/tns_modules/@angular/http/README.md</key>
 		<data>
@@ -2450,35 +2466,35 @@
 		</data>
 		<key>app/tns_modules/@angular/http/bundles/http-testing.umd.js</key>
 		<data>
-		6xm5BMYDs0EVzBhzKyhhJ2ehAK8=
+		SHfUhLJ01YhhVfwT7POSL4Fyq+A=
 		</data>
 		<key>app/tns_modules/@angular/http/bundles/http-testing.umd.js.map</key>
 		<data>
-		41frrhSYThFmRFvYJHE1MRfF91s=
+		tshfZcSbbMTbgVOF3ZciOSijU7U=
 		</data>
 		<key>app/tns_modules/@angular/http/bundles/http-testing.umd.min.js</key>
 		<data>
-		vkCPfUuQEOMBY5gnktE4F3vjBbY=
+		wvASh09QSzpjaghWTj9X/u8JPTM=
 		</data>
 		<key>app/tns_modules/@angular/http/bundles/http-testing.umd.min.js.map</key>
 		<data>
-		VHXzLGj1KS5w9Vm7rrzb9edKslg=
+		IMMx2fJ4kwfTW20wWqSK6LJspwE=
 		</data>
 		<key>app/tns_modules/@angular/http/bundles/http.umd.js</key>
 		<data>
-		j/GVc2kKFCVBowBkpDB0XivtL6k=
+		qsPBee9Y/O476liH9GJG59Xtaqg=
 		</data>
 		<key>app/tns_modules/@angular/http/bundles/http.umd.js.map</key>
 		<data>
-		nXgeh7DjePEt8USLu4iZMC5+fJE=
+		xzRq+9iYcCFAikGH3EAz0Tw4nos=
 		</data>
 		<key>app/tns_modules/@angular/http/bundles/http.umd.min.js</key>
 		<data>
-		Zcp/AmNJm4xaUDLR2OYPC7aclvY=
+		vLQ9mPVA4Opqo/5oeS6VN7XPFRs=
 		</data>
 		<key>app/tns_modules/@angular/http/bundles/http.umd.min.js.map</key>
 		<data>
-		G9pCXqNFGIaKgXj9s3E/wniKFwo=
+		GTNtZrNjSE3AcaK0skVRQbq3+Zw=
 		</data>
 		<key>app/tns_modules/@angular/http/http.d.ts</key>
 		<data>
@@ -2486,11 +2502,11 @@
 		</data>
 		<key>app/tns_modules/@angular/http/http.metadata.json</key>
 		<data>
-		8b6Xx8mTgKqYfR7hbu5QkGERJXY=
+		lUshyUYpsIi2XVar+rw24rJ3gKM=
 		</data>
 		<key>app/tns_modules/@angular/http/package.json</key>
 		<data>
-		8g0fPx5uhCg56MmpRZWs5r0NvJI=
+		hgxge9VmvfuCQzWozyno4R8SDmY=
 		</data>
 		<key>app/tns_modules/@angular/http/public_api.d.ts</key>
 		<data>
@@ -2522,7 +2538,7 @@
 		</data>
 		<key>app/tns_modules/@angular/http/src/body.d.ts</key>
 		<data>
-		mPyCe4JiPTrBdZwZBV5FM6ErfeY=
+		JM3fhhP9mAaqP7OxMYDdX9gwV6I=
 		</data>
 		<key>app/tns_modules/@angular/http/src/enums.d.ts</key>
 		<data>
@@ -2542,7 +2558,7 @@
 		</data>
 		<key>app/tns_modules/@angular/http/src/http_utils.d.ts</key>
 		<data>
-		4o/LznJSrdSv+CzenX0npyiZOAI=
+		wikRVLv8M5AB0Kf/gXk+zmfB+RY=
 		</data>
 		<key>app/tns_modules/@angular/http/src/index.d.ts</key>
 		<data>
@@ -2554,7 +2570,7 @@
 		</data>
 		<key>app/tns_modules/@angular/http/src/static_request.d.ts</key>
 		<data>
-		iU+mqw2KCpjFP8FKcvX9EIk7kB4=
+		/WeI5HtFxM6JlTq7ElKORl8jT6Y=
 		</data>
 		<key>app/tns_modules/@angular/http/src/static_response.d.ts</key>
 		<data>
@@ -2570,7 +2586,7 @@
 		</data>
 		<key>app/tns_modules/@angular/http/testing.d.ts</key>
 		<data>
-		7zZXqC3KNH4RaaRYM7jnkr2ab24=
+		klE0+rjT+n5EuXhpfaAybsOLtuI=
 		</data>
 		<key>app/tns_modules/@angular/http/testing.metadata.json</key>
 		<data>
@@ -2578,15 +2594,19 @@
 		</data>
 		<key>app/tns_modules/@angular/http/testing/index.d.ts</key>
 		<data>
-		If+roiADbXKYTqSD5e0VStvSxq0=
+		DXECxXOEXQDrym2thVWGhiwdOsU=
 		</data>
 		<key>app/tns_modules/@angular/http/testing/index.metadata.json</key>
 		<data>
-		naztlCgfZzn5p7bCi4zqN8WRcUE=
+		uE12+rtztMrqRtlX4qMFJGrjO14=
 		</data>
 		<key>app/tns_modules/@angular/http/testing/package.json</key>
 		<data>
 		Zd8HpvsHa+B1FjPQujXx8Q+dWAU=
+		</data>
+		<key>app/tns_modules/@angular/http/testing/public_api.d.ts</key>
+		<data>
+		5sRla+FPG5KXVU2cXklctv5SV54=
 		</data>
 		<key>app/tns_modules/@angular/http/testing/src/mock_backend.d.ts</key>
 		<data>
@@ -2606,23 +2626,23 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser.es5.js</key>
 		<data>
-		higQqgekd90rmUAbLXz1bdKIcSg=
+		gzMe/U9Z0sYMODxmcI7M35ge3jU=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser.es5.js.map</key>
 		<data>
-		lpCulp+Cankbyakptf2Y+iS+OkQ=
+		oMCzz71plRbGx+R3OoIZczOf79k=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser.js</key>
 		<data>
-		CAF+V2cqkudW2KuStHazIMXRGbQ=
+		48583ejk9S8808DsIYg/TC30J3I=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser.js.map</key>
 		<data>
-		cACFQas1rhqT5tzjV/4qd5mgvHQ=
+		TRYZmlLv1AUB4LOmMzi8ifLqt0Q=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/animations.es5.js</key>
 		<data>
-		VY6UphgePFd4I15ygQSiZlAP/30=
+		ftv6bJ6iITE89EI2oANhVK5kuCE=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/animations.es5.js.map</key>
 		<data>
@@ -2630,7 +2650,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/animations.js</key>
 		<data>
-		tpA0zPmqrY4fF2jj8fmm8eJrcHc=
+		0EMF9jfe+f/Mn1VyZQkQhbsaRzQ=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/animations.js.map</key>
 		<data>
@@ -2638,7 +2658,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/testing.es5.js</key>
 		<data>
-		uncOlCaKe0/lFndPC7RteB3UFfU=
+		PCE+b020d3ik/wCl2bgyv7nZrc0=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/testing.es5.js.map</key>
 		<data>
@@ -2646,7 +2666,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/testing.js</key>
 		<data>
-		Tw6h9dlEgm2tNUqj+1OcessN5JI=
+		LRCThLyk/6ct6W3Dv0Sj14XFbIQ=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/testing.js.map</key>
 		<data>
@@ -2658,7 +2678,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/animations.d.ts</key>
 		<data>
-		4/UdLEGJTQiUkAED/U4dE1kG6Xs=
+		V3kAwL6/DtmFqcltSa3lPvvRd60=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/animations.metadata.json</key>
 		<data>
@@ -2702,7 +2722,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-animations.umd.js</key>
 		<data>
-		WdJIci4LTuP1mJHHqAMWgAGyRR8=
+		qwZ5llC+WC/88hGfYVq5gYg9+Jc=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-animations.umd.js.map</key>
 		<data>
@@ -2710,7 +2730,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-animations.umd.min.js</key>
 		<data>
-		2QlQPFKHK6U62wa7sxo3CYjWHHo=
+		Qd0/WZjRdWnL1lOM6UYGYC6uEuY=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-animations.umd.min.js.map</key>
 		<data>
@@ -2718,7 +2738,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-testing.umd.js</key>
 		<data>
-		1/QGLoI5WkQpMOacpdiD36Y6SBA=
+		L13tUN31w2ieVWC8JKt0ZtODw+Q=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-testing.umd.js.map</key>
 		<data>
@@ -2726,7 +2746,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-testing.umd.min.js</key>
 		<data>
-		ULrIwECC269svYbTWJaiYK+rXXc=
+		mQ866FIjnw34F5cMUm0jbzpHlI4=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-testing.umd.min.js.map</key>
 		<data>
@@ -2734,7 +2754,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser.umd.js</key>
 		<data>
-		5+Kb4rlHc6Pn8uwerjWekwErWfI=
+		PAAjJOkRANikodaW4VY8ko/dfvE=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser.umd.js.map</key>
 		<data>
@@ -2742,7 +2762,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser.umd.min.js</key>
 		<data>
-		UIfuuWTIsfCL4Ql2+34KsX9cY0o=
+		JTqsiSxgaFb0h6ew/pMh6KZpMXs=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser.umd.min.js.map</key>
 		<data>
@@ -2750,7 +2770,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/package.json</key>
 		<data>
-		cc5fPSMM93cNFHc0NzOo8aq4JcQ=
+		+Yo26pS1ne7AGZe3peBlxG7c3ko=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/platform-browser.d.ts</key>
 		<data>
@@ -2758,7 +2778,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/platform-browser.metadata.json</key>
 		<data>
-		jA4Iq1YbB+mLxXbivinZ25u6brw=
+		tnuTbUzJeNy0UuBqCguP/nirPaQ=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/public_api.d.ts</key>
 		<data>
@@ -2882,7 +2902,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/testing.d.ts</key>
 		<data>
-		7zZXqC3KNH4RaaRYM7jnkr2ab24=
+		klE0+rjT+n5EuXhpfaAybsOLtuI=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/testing.metadata.json</key>
 		<data>
@@ -2926,23 +2946,23 @@
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router.es5.js</key>
 		<data>
-		xOlfq0eLmkKceGqo+y1LjvEzSIw=
+		YyxHDfCJy1Oo1IiAvXX08bVMYvw=
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router.es5.js.map</key>
 		<data>
-		LSuHAxfl/pPOGoP6GjCoXizQEJM=
+		tRUqtpBDt3J2A9cafO8LyQPzvzk=
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router.js</key>
 		<data>
-		/WO45dYYuQ8OUz6clypcQuKG09w=
+		Y32zFW2V5DPLsxgarVGjlLyHmcs=
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router.js.map</key>
 		<data>
-		S7DUhmQvv8V+nEfdd/OoqckokJQ=
+		7zSw/+FcVNRs9sivLILRF+fJu20=
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router/testing.es5.js</key>
 		<data>
-		z1/9VRTzG+f5DH5VmvC5Sw2Lc7I=
+		srTmZyKroKDg+Nsu7fuy3KFbCag=
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router/testing.es5.js.map</key>
 		<data>
@@ -2950,7 +2970,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router/testing.js</key>
 		<data>
-		sUbN8ofavpXDt8AYDziDE7/P/b4=
+		fNiYXqHey25LSoA6FJ9Hu7IK7xk=
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router/testing.js.map</key>
 		<data>
@@ -2958,7 +2978,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router/upgrade.es5.js</key>
 		<data>
-		G0gcqhJ8C9GBy1w0rSnDA8mxC6o=
+		v5kG+8+8ifKxrm0leVPyRd5SKgU=
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router/upgrade.es5.js.map</key>
 		<data>
@@ -2966,7 +2986,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router/upgrade.js</key>
 		<data>
-		CduU/BwWECbyfOjZrQbEr4Zxjco=
+		lwVmH8AtmQmnSbImOF+sf9419Ys=
 		</data>
 		<key>app/tns_modules/@angular/router/@angular/router/upgrade.js.map</key>
 		<data>
@@ -2978,7 +2998,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router-testing.umd.js</key>
 		<data>
-		pNEehe8bbD7XKPswO4eP3Irhp40=
+		ytgpQWRSPeH2/S4Yu4QFGoVAPnE=
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router-testing.umd.js.map</key>
 		<data>
@@ -2986,7 +3006,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router-testing.umd.min.js</key>
 		<data>
-		D2TIu4jvefMnpvfsp5GGbZt1d2I=
+		0iUCy7/7oo2ZMAFxPPAvvPeEHU8=
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router-testing.umd.min.js.map</key>
 		<data>
@@ -2994,7 +3014,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router-upgrade.umd.js</key>
 		<data>
-		P6VTQdC9BwizGhejhuAsqGrg4eA=
+		uUMZrT/EZKpuIQld82eSiP9drEc=
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router-upgrade.umd.js.map</key>
 		<data>
@@ -3002,7 +3022,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router-upgrade.umd.min.js</key>
 		<data>
-		gNuSzPA9sUeingb7KenxWy+dncQ=
+		Y1/MF/t7/0YJGof2OMQoA6fL+ck=
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router-upgrade.umd.min.js.map</key>
 		<data>
@@ -3010,23 +3030,23 @@
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router.umd.js</key>
 		<data>
-		5w+pyjdP8kJ3q3vXBFNoUrpCbnE=
+		rEJFrPKKEbvt8I/gpLCr6rlHGmE=
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router.umd.js.map</key>
 		<data>
-		bNEhKUdV4PiYDPB6MTilk0RAdrM=
+		vRPQ6WSGCE7iOYxl7iIerp/xnV4=
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router.umd.min.js</key>
 		<data>
-		3QANHf/d7BtR66LSrS84jH9mNR8=
+		kjF72q1hb/eIzd7GkPKZiImb6GU=
 		</data>
 		<key>app/tns_modules/@angular/router/bundles/router.umd.min.js.map</key>
 		<data>
-		oA1Woh0FFPLoMdVYlJanbyncqrE=
+		USx9Q6ZvNGCqRpwC57TLpWBJKHg=
 		</data>
 		<key>app/tns_modules/@angular/router/package.json</key>
 		<data>
-		0Vfcq0Jh6++s2x4uPlV/l2FZ2SM=
+		ltvGtxD1BT+JGsR42FRLTKeLaw0=
 		</data>
 		<key>app/tns_modules/@angular/router/public_api.d.ts</key>
 		<data>
@@ -3038,7 +3058,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/router.metadata.json</key>
 		<data>
-		TcHCAnPlsXubS2j5/Z1k3/RnztE=
+		vq6LlT1tswU9TYPz/fMBvh2l6Fs=
 		</data>
 		<key>app/tns_modules/@angular/router/src/apply_redirects.d.ts</key>
 		<data>
@@ -3058,7 +3078,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/src/directives/router_link.d.ts</key>
 		<data>
-		Res+65UGNS5x7fw/N0l5CNPt4No=
+		+pj7pzFoOxGIeS0ZF+d5k6vMaa4=
 		</data>
 		<key>app/tns_modules/@angular/router/src/directives/router_link_active.d.ts</key>
 		<data>
@@ -3142,7 +3162,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/testing.d.ts</key>
 		<data>
-		7zZXqC3KNH4RaaRYM7jnkr2ab24=
+		klE0+rjT+n5EuXhpfaAybsOLtuI=
 		</data>
 		<key>app/tns_modules/@angular/router/testing.metadata.json</key>
 		<data>
@@ -3178,7 +3198,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/upgrade.d.ts</key>
 		<data>
-		uo6wUfjgCxzRqC8MqauYefU5TOI=
+		WT7oXgzpyQ3xI+aTAon6e7cn8m4=
 		</data>
 		<key>app/tns_modules/@angular/router/upgrade.metadata.json</key>
 		<data>
@@ -3526,7 +3546,7 @@
 		</data>
 		<key>app/tns_modules/nativescript-angular/package.json</key>
 		<data>
-		hZTrj4dAjfgLnKAAOQpD9Rn/94A=
+		rg8Al3Yh8xgGQn6WAnkUMrvt2sc=
 		</data>
 		<key>app/tns_modules/nativescript-angular/platform-common.d.ts</key>
 		<data>
@@ -3938,7 +3958,7 @@
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/package.json</key>
 		<data>
-		fKnHB1NfeLI7NJt681Pek16IRtY=
+		3O8+PoSU39lKftU7G4B6dOjXqfY=
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/readme.md</key>
 		<data>
@@ -4346,7 +4366,7 @@
 		</data>
 		<key>app/tns_modules/reflect-metadata/package.json</key>
 		<data>
-		8t2qoMTUw8UcJp9zjplxI/9X1+E=
+		q5ENx7D1lL9C89FiGMkzsiLMTpk=
 		</data>
 		<key>app/tns_modules/reflect-metadata/reflect-metadata.d.ts</key>
 		<data>
@@ -8030,7 +8050,7 @@
 		</data>
 		<key>app/tns_modules/rxjs/package.json</key>
 		<data>
-		ItkEbB7fU4+khji6JUDVkN/sfIE=
+		d3l4CY7rr4E1zBTbvmAdrJkkOO0=
 		</data>
 		<key>app/tns_modules/rxjs/scheduler/Action.d.ts</key>
 		<data>
@@ -10334,7 +10354,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/package.json</key>
 		<data>
-		gQTk8ibV4pgVlqZd16bVIw7gbVU=
+		X+tUO+JKolbgRhb6SP0f0C+70k8=
 		</data>
 		<key>app/tns_modules/tns-core-modules/platform/package.json</key>
 		<data>
@@ -11318,7 +11338,7 @@
 		</data>
 		<key>app/tns_modules/zone.js/package.json</key>
 		<data>
-		V/v1OxjGWWIVXdIWmOephEuW32Y=
+		eLrct00QRqG8jIO+N6ZuSAdNT48=
 		</data>
 		<key>build.xcconfig</key>
 		<data>
@@ -11901,154 +11921,198 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JM2yk5wE1qpmvgspB64cEYHYvpE=
+			BtOpTepOAy4GHX9Ut6sldDGXJKs=
 			</data>
 			<key>hash2</key>
 			<data>
-			fXoUHbOnpQYqylXdT4uRW+QuLCK7g+Xns9qBrZTWNAQ=
+			WndxZ3rIpxOqwwE5avtqWz15//O5Lu1Fion8sYUxH6U=
 			</data>
 		</dict>
 		<key>app/app.module.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0dpe1FKcG8aZLYb+Oqslr36qRDY=
+			c1X4MMMTN/JsrPNMRXVB8mxgQJQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			C9LseDmv7EsJvyHUepFgkBb61nWL55kJZ5OJ/3qievQ=
+			upXWSO6swd807M+P/BxsauRhx/lxuKBG53rgqw8epqU=
 			</data>
 		</dict>
 		<key>app/app.routing.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JLrBpWYBXPo3dV0dMaodSbtIa0o=
+			Ha2DVlBfDij4Lg3ihW/tCfPV2Gs=
 			</data>
 			<key>hash2</key>
 			<data>
-			D0A2KV4Z3zfi7AVlkcOuohAlcSUFpsCDJxbyt7C+RrA=
+			PnaWGEtKkL08nBjINGXPDvEh3uGP/fMNvTabRL/VXmM=
 			</data>
 		</dict>
 		<key>app/app.routing.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1djM2r+liuFyYnS+5dZNwlU/c3E=
+			VtTkECbag/ZeAOR5voKveYQckD0=
 			</data>
 			<key>hash2</key>
 			<data>
-			7uznYpTxC0/o0e34QQ+I7BW2KDFLEf1TrhdaL5VQE60=
+			ZZMyp30rcfLC88JU95mhecGzKkF47f2dx0Ke+3mRBZY=
 			</data>
 		</dict>
-		<key>app/item/item-detail.component.html</key>
+		<key>app/dog/dog-add.component.css</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LJqXoj2fghFSy1rBuN+FBDAxHmM=
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 			</data>
 			<key>hash2</key>
 			<data>
-			rHOb/+GmVa8E0peoUD0H0c4cVKcpEJ6XuKhTVf0ZxN8=
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
-		<key>app/item/item-detail.component.js</key>
+		<key>app/dog/dog-add.component.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			See88MP+hj6ckwauLNV5+io0Occ=
+			LcfgR3e1hiwPJyWgVo2ior3p3Yk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/PLrUfqMCtCq3arhK4fBt5/Ep3wwMSGRKUuPkda85sY=
+			FQUdTJ7DDdzLRJH8VODXNnsqJgEdqeHMOqrMwDCLOy8=
 			</data>
 		</dict>
-		<key>app/item/item-detail.component.ts</key>
+		<key>app/dog/dog-add.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WI/no9tXYi6q4T1ki6xFsHcrecw=
+			B3JPQa0qWP06CEffQlwJv1LQBEo=
 			</data>
 			<key>hash2</key>
 			<data>
-			rzdFQiZV+aMLFSr4rv2sbJ7Ty0BX4LXoURHkZtLD6QU=
+			N1dNXWH/71986HAZf2cBtvOjt+GnQ1Q36TzCg69YLPM=
 			</data>
 		</dict>
-		<key>app/item/item.js</key>
+		<key>app/dog/dog-add.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rSXXgZX8iLf0dMTpxW4OIWw9mYc=
+			aT9T8JA/b5VrS0Rd/21yWxWb5fQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fo7MT0eCAmiLywvw6buUZ9Q0O2fW513KB0SIzAZ66C4=
+			VXwcjHipyZc3rVnRPP9SA54PL63g9ud/B05Eexb3zJA=
 			</data>
 		</dict>
-		<key>app/item/item.service.js</key>
+		<key>app/dog/dog-detail.component.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H57+e4NBXeQ+pmfQv7PY30uDprA=
+			PwxshOtkfuM8UWsiMl7cYxxYPHQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			4ydUGIfL092UMohHqbnQX7xtBmT/ob3Cr6mBLlYYjko=
+			hC4jp0N3ZVFfNmRUWZRWIz3PoOMHAGLqwPTjcLh8muc=
 			</data>
 		</dict>
-		<key>app/item/item.service.ts</key>
+		<key>app/dog/dog-detail.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aEGKBYpaVjmcuGhGLfKS1/f9+oE=
+			HQZVb0UZThu0lMXRyD8fms/bWwY=
 			</data>
 			<key>hash2</key>
 			<data>
-			JiQTYLuOajIvkyPy9shPN73UtW9GMii/jOGkm8lA5GA=
+			e9gWYaoAzuj5VfkO5jI0my7L97gKTu47WHWcvmZi51k=
 			</data>
 		</dict>
-		<key>app/item/item.ts</key>
+		<key>app/dog/dog-detail.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aL+OQHeheMJJbN8UbEcwudBbWlw=
+			8pweQCUhdAdueIsKm49S9kWuOLE=
 			</data>
 			<key>hash2</key>
 			<data>
-			dA85Ua+uZsQS336svHL9H7I6W+vCTnOwS16VxIroyTs=
+			YAIWNIJYsK902u9K89Re/2nUr0qYBPlgaQuUbGaJgZg=
 			</data>
 		</dict>
-		<key>app/item/items.component.html</key>
+		<key>app/dog/dog.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j9YDkynxYueekk+WaQyj4XCMqt0=
+			TEWttEnknNsoAk2pQXYTUqJwl1Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			mrGVCCdTQYSNaNknqsInSsBn79vy6SJYR7mOS51Kx8s=
+			fkHbvK0ZaW05V4d+d1fJbbvqXH5jj4p4r8M/q5ev8aw=
 			</data>
 		</dict>
-		<key>app/item/items.component.js</key>
+		<key>app/dog/dog.service.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OwLMOkGaJYeYtrXdh4zHwIkHLbo=
+			QmCGVzKrVtFb747IfGk19n4hoO4=
 			</data>
 			<key>hash2</key>
 			<data>
-			nJZA/LZucjdh5eIk7Fjy/hhZdBZxaPAVn49nyO0HsmA=
+			hgmVO92Sj8D8droDukdKNzjh2oaa0c5ctFKSN2uUzow=
 			</data>
 		</dict>
-		<key>app/item/items.component.ts</key>
+		<key>app/dog/dog.service.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DcNsq9lzgLSPHvz7KpPHiDtKEwA=
+			KKvKoL5VgURccvhitn63TICPR44=
 			</data>
 			<key>hash2</key>
 			<data>
-			rWmDYVciiEkhuySg6Cr3l40W01rinvfmR4wwlhhaWHE=
+			gMBW2w5llCiry27Caa6N1hMkKepULxl8tgTDKY1iP4s=
+			</data>
+		</dict>
+		<key>app/dog/dog.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5SXPpvtUOpolWziIC/02uvEAk7g=
+			</data>
+			<key>hash2</key>
+			<data>
+			IAwI7TJYA7BjEkCzgYXktlEnAm7nBLI8sU9oVhoRPDo=
+			</data>
+		</dict>
+		<key>app/dog/dogs.component.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VKqxN/qL8J6vGN9iOyih5IWYf94=
+			</data>
+			<key>hash2</key>
+			<data>
+			gJxWJ2Q8obP8OyiQ6UzpYBoVyZGxb+UT+MuQUP2A7n0=
+			</data>
+		</dict>
+		<key>app/dog/dogs.component.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ap4+dHm4lYys7JV7slJxTNK7f/M=
+			</data>
+			<key>hash2</key>
+			<data>
+			ibpMbnWOszuMgq2Upn2cYl47kY5dtFvQv7jqXquxrQ8=
+			</data>
+		</dict>
+		<key>app/dog/dogs.component.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FWac+9OpnVcpBzB3Zhf+oaNFN8Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			qWcHLCuB7j3qmhV9LcIEbPg6SnvSBn4NzjjfQqC5SqI=
 			</data>
 		</dict>
 		<key>app/main.aot.ts</key>
@@ -12099,55 +12163,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ECNEG7J5fUY/tBGyAzvXpzUnh1E=
+			Es4dp7ycLS+zPlHaeKQ4NY/AgEY=
 			</data>
 			<key>hash2</key>
 			<data>
-			nj5zIxTC+h36d1raMfILCdIsSR6Ly3w4ZJy8VpBplR0=
+			wxxVoQEm9ZmYhmfvsCWH90hCWuhqxwF0smpxj6Kcb98=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/@angular/animations.es5.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b3RItYD+05J2g9hgTr67P0do7mA=
+			WxGaPi15AD4JXq2iwN8oprKWMC4=
 			</data>
 			<key>hash2</key>
 			<data>
-			FQF8O6UbBaIb5Iphot3DOu9tvxllb/55gXriMFDtGak=
+			eJRbgJWK3eIhjbBfL1clvZSRK7QIBtfHh7EjGIasf9k=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/@angular/animations.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T+KSpkH8NFOmpX9IT5p8HbbdhTk=
+			d2GvqbFgthxVA4cMklRkJNR+goc=
 			</data>
 			<key>hash2</key>
 			<data>
-			U87cjZxwDN4BbzQ0t60Kz51oicmwFVscbfLHbRupqlM=
+			CBm6bE9zuNmsH9pVZeQlLretDmmLU5rAkqeA1Lc00PE=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/@angular/animations.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Uj5tRaGHdyvOeqD4boXnlq+ubKc=
+			iIwCEcUePRzUGj8ZOulCAaxl6lU=
 			</data>
 			<key>hash2</key>
 			<data>
-			nApm9WliyUAPG6kkS5fHhSn3sg7EZ/XNEXSlMIfLYA4=
+			qv/xzk9uaen7vk2mMggei72yYDnfepR580JTaJnm7cU=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser.es5.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9QDm6tWDvTEFEyTglQYKWketsg4=
+			vpnH4hNgr7obvQUJnULSkHN9P2I=
 			</data>
 			<key>hash2</key>
 			<data>
-			0pc+X+uJWa41xm68HOqhvl4Tuw2K/cb7oXQidPWUVzc=
+			nMdxtu/UYR9QbgWKQ2Nrrt3Boaq1p3nprGbvaOmneKI=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser.es5.js.map</key>
@@ -12165,11 +12229,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uAdt7BngFjklJUzM1pkDSioM/fQ=
+			T4UiZEYXTVJt+pd5aIuZHxpJplg=
 			</data>
 			<key>hash2</key>
 			<data>
-			f25ZxTC9s4quZcP3BYhQ49FqyPs+lbSB5+j0ZrF9eAc=
+			PjmmHHysREjv1xsiZ+OX8XM9M0du63FR/JVZ2EVlWmU=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser.js.map</key>
@@ -12187,11 +12251,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3R4TiDIOrrT2n0MJ4ahb6ruEMM0=
+			BD2a4q24JrS57fmuz7cSi5E+BoM=
 			</data>
 			<key>hash2</key>
 			<data>
-			lPKhzZQLIXlIM66JShd8xTheAenQFO/5j4oZZtX20jw=
+			YaCyMp9YD2acc37CzeXv5KI5FVv0yCQ4ZeW0UojAFgw=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser/testing.es5.js.map</key>
@@ -12209,11 +12273,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g7ROrxqqK/HqrkhwSovLOdaX7AE=
+			JVgBmzZl/U7e7UXHQWFtvOZdrrs=
 			</data>
 			<key>hash2</key>
 			<data>
-			4bpZhYy79xHhMuvETNJGyGs/TUvUAgEmAGkcMkimAs0=
+			RPCtA7/e1ZpkaYFJ2FSBwxCd+oNKATIQLZctLXp4RBU=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/@angular/animations/browser/testing.js.map</key>
@@ -12264,11 +12328,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O0l9mTrOQMXaIxwX6QWIWOtiVsg=
+			K1aKYHvJ6sq5kVe/cSp/evXTbzY=
 			</data>
 			<key>hash2</key>
 			<data>
-			XXNvFq5Owb4X2gTkMbu3Y7xDvcZQUq1OMzC/u0mAAs4=
+			RQnG1jtILMOZwvKDb1zmhlkN1vEZsTCtX7FqwH1/KKk=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/browser.metadata.json</key>
@@ -12583,11 +12647,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7zZXqC3KNH4RaaRYM7jnkr2ab24=
+			klE0+rjT+n5EuXhpfaAybsOLtuI=
 			</data>
 			<key>hash2</key>
 			<data>
-			YGxwVek3xffgrz/JddCsRfmN1YZfZcFo9VR8Q9XdIO4=
+			N29lD79eHnopOdkh0UFLyslk/xOQ+lMqq1cIjbvnsF0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/browser/testing.metadata.json</key>
@@ -12682,11 +12746,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p86beYhg+Z+M1FmH9L89jvRkTE8=
+			sNZLv+Pim5428JrAZlv1/uTr4tA=
 			</data>
 			<key>hash2</key>
 			<data>
-			urBmzxfgTWh0WnDLzOHulWalHxoNnuSM+eC/jbfdqAU=
+			QfyGaNuKzHL6KczuprSm9SIF2mSAX5olmvEUvciOzow=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser-testing.umd.js.map</key>
@@ -12704,11 +12768,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9Xtk2Qb+hTgZkkmaWudMhMoYdFI=
+			UIBYbOj3hQ3mBKJAjbvWvNPJQY8=
 			</data>
 			<key>hash2</key>
 			<data>
-			H+r+PjC6PO4roN5ThNoHla91AKfQthyy86WiOSMq6vk=
+			AgcOu9DfKfXS6ntuaVo58zitGtba9Ibj955REjYHL+o=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser-testing.umd.min.js.map</key>
@@ -12726,11 +12790,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eUxclaUz0p9+sOntcST2RY++tQY=
+			Z8piyAp40Ih2A1uIvPvXDg/wKyw=
 			</data>
 			<key>hash2</key>
 			<data>
-			7EJhwwh8nn/MIAazHDN/sVdXIfWkF5nnqD+WXrkOGL4=
+			ms/oWSGOfL3m17bPl3ugLdb/3/aVt+cpCXoRUlCFqPQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser.umd.js.map</key>
@@ -12748,11 +12812,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A+XYGG0uwJzKDLVEJgB3RajIL1U=
+			pWUKprB9MNBDbCxU+c2f6OWLQlQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			yLScpJcTzEI7S0CxONooohu1znUc8zbB8sb4SaN+9RY=
+			Tfzy5ZzU5DZUBg0vba3GOIybD8UYPkd1vbYRyKSqxgo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/bundles/animations-browser.umd.min.js.map</key>
@@ -12770,55 +12834,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uVLMm4ny+IEgnynlyBk7vcxqz3c=
+			hZNjJ2FKNdHo1ExFZQbdO0a3kiw=
 			</data>
 			<key>hash2</key>
 			<data>
-			AiuIRQwBTA79mWym6DS4bEvV4j/o5RqCaEBFRxUhHS0=
+			SgvKV5m35H7QJdWjZS37Lh5TUckOZnliBt/xOHMHbtw=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/bundles/animations.umd.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ll6KrFS+eUl36RyxefhDU/L6OWs=
+			MmMxICUcXeffMzqHjq01BS2nT+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			PGpy0a8PlO15HCHq5Zz6YaS+uw1OV5yv1sU3sAAbbUM=
+			hZJ/M5zUrmM4tGbAdvlkHX5KuCptugXy+xvh6fU7paA=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/bundles/animations.umd.min.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mO0gAp3gNO23Qha7aHx8Yf0FSs4=
+			Ndc+uzU5DLxSH6MErsHnTpeIzYY=
 			</data>
 			<key>hash2</key>
 			<data>
-			m8iF5b4wUrfAjvrZvbOl1LYVkPzs6i2BxeI4TarCOpE=
+			UPiuczFxL3J5AZm3J0sGwkZBMu0n75ixT85AazdHqsk=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/bundles/animations.umd.min.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RZH2iefQZ/0sVetcLhcLiwaRo3g=
+			n+NZdeT363tJRkFf1HwPMfZdwtc=
 			</data>
 			<key>hash2</key>
 			<data>
-			28XB1cfLdTHeaSrp5UJ+j6dHCDMb2x9nhuf2mSt/nu0=
+			sJl+g0QjYMT5j6j+f8KKBfkG0aJW7yk9O2WKQ72F+so=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RYbVT47f9ObwYBLa9Up8nRgMwLA=
+			nuAObcSDuTyOyPVcy3qQ2+nwAio=
 			</data>
 			<key>hash2</key>
 			<data>
-			06358we/vxnO2o5zRsiEWV1fePuWCw0Uo5z3btntnUI=
+			YPP4M9dI1jiyCk9kis7Kg2Ubx6fHTD0pa2oiP7wrIqo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/public_api.d.ts</key>
@@ -12847,11 +12911,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SlZ+vqrLFUfCgC/eQdmJfBstZHo=
+			R7yg702pD/G5eQ9IThgP9xvnXac=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q/0swBsinX5VS85QmXi9ala8sxfBtaxZDNUShaDZAhw=
+			uzbNJjtbWs1dmwQT7aZkkOZ6DmlZeXPyNVmC4+Erc1s=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/src/animations.d.ts</key>
@@ -12913,55 +12977,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZxajO2nRDSK91bmkB6tAsXI9/oY=
+			0uqfNryjtWN0uclx3lrvG2mF2uE=
 			</data>
 			<key>hash2</key>
 			<data>
-			VWPQv5YSb3wNGAC2cgMdV1cbbydl7XxzH3nZgGaQivI=
+			WedIbzdLGTSzdlBOQpekqgXnjgxrUBMncFoTPOzPr7g=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/@angular/common.es5.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wpRsQZrWLcANeRjuKYNlo/MrJGI=
+			Awzlvv9ak9I1ggywPXNif4HJBOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			tnFU6k9WD8f84LEomMkxD5GdCLzN/tZjWyaZnKeBpAk=
+			fF/Pc4vOwJKwjDm/DicQpjpRDzz/uaUhfz/SGu7tjEo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/@angular/common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EoeA/KB5xkWg9xsfrzgPoEduOH4=
+			4bpoulpSgxtHP36JRxXlA9kb5xI=
 			</data>
 			<key>hash2</key>
 			<data>
-			K+JBUUgPakPE1awk+7/v4QFAn4RknXKiDD34e+ptxz8=
+			bZfBurDy22Rf14G9CMwSLk82GsWfpHPqyauawTNexBg=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/@angular/common.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yNxgPZI5yg5bMKkPp7JzvJCbgMc=
+			MrZd7UcQwhlylkT5zUDFonRSwio=
 			</data>
 			<key>hash2</key>
 			<data>
-			8bU1u1JCJp03I2FCObbX5kCXO/w1j/S3/3jCaiGtAE8=
+			MvXfq657wYHONoQr+5SfuMwOuMjun8AbP/ScSyJLz7g=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/@angular/common/testing.es5.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0IpYAbf06popZUDHZJBdwxDk5WI=
+			IB0JRwxogotrXYpuz9M+xpOnNJU=
 			</data>
 			<key>hash2</key>
 			<data>
-			sbb2VKcm6krjtMOrmHRBPc4tDRWxhAZN8jr7JCHRHZ0=
+			zS+TJt/VzM3aafNa5fQU7W4jnAO6yH8WMQymZ+dccyo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/@angular/common/testing.es5.js.map</key>
@@ -12979,11 +13043,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qT6XSS81yMMtKjwr0jhBN8uWgbg=
+			EMPThNZNeuR5YpVnu2uZwGGNxC4=
 			</data>
 			<key>hash2</key>
 			<data>
-			GfCQ5gSBc5Pw6C72gUhcMC/EKLlrF4uM2v34Uk6+wPU=
+			NABjdRE9/n+Et7Q1FhJa8mw6ajWjyWLOReguesgWydA=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/@angular/common/testing.js.map</key>
@@ -13012,11 +13076,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YPKW9xJwoANurxJ1uSGfLB0FiTk=
+			v/hNWYbozh/uHSbEOvZp1JCo7MM=
 			</data>
 			<key>hash2</key>
 			<data>
-			kjM1odrcyK6eBd58IHKx9NobbvvU3EnbDEqfhGjj03M=
+			0gdiORwLJMEouPK70/I5GjNRm9kmTlpaC0OQliNe218=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/bundles/common-testing.umd.js.map</key>
@@ -13034,11 +13098,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MC2a93lMBRZy47JH0c3COUCBlJY=
+			HvYtEN9SnxFqD5gRdL0CEFa8t5g=
 			</data>
 			<key>hash2</key>
 			<data>
-			cmQc59HINAjYm937Vj6rSujm9J+T5DvUS85DtrnAB/o=
+			pFbvbH+erEpvTKK411Anlsa797yZGDm7Jxz8ChlfbLI=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/bundles/common-testing.umd.min.js.map</key>
@@ -13056,11 +13120,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			so+XFd3XkwayumzhFpmuabvTJfs=
+			lxC0Iovd78GfeRqjhvvKEzyU4KE=
 			</data>
 			<key>hash2</key>
 			<data>
-			geVKFskbqsX1wYexj+czmz+pYpWAtFHvc2UZ8ElSIKo=
+			zaV3QaPOCXlx0z8pK/eCPvTsbB5eA9dHDkLwoZF32zw=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/bundles/common.umd.js.map</key>
@@ -13078,11 +13142,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KmMo+76hIdssMQtSZra1QZqmPEQ=
+			ee7CZPcohqt3c2BkVZaitWuXhZs=
 			</data>
 			<key>hash2</key>
 			<data>
-			LQqdfrD40a35eO4pfYO+5jtikXq5NujEmT5Ci2n1YXM=
+			26A8L5rtw5v31Tt1gmoaGNhlwuDybRkFMxWmskZCSP8=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/bundles/common.umd.min.js.map</key>
@@ -13111,22 +13175,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ElZMmrjoyQIT3FDjrCIIcKL5h8k=
+			eG/YkDHPB62fM9rg7JXH0PkFBV8=
 			</data>
 			<key>hash2</key>
 			<data>
-			aJ+T+4xGwoPOZJKHC2VuDSD7gciC0ep7I+Fah74yRf0=
+			IVx711PZXfGjdVNHH7BNGLzRFq/7qmnOGZxuZ5zlYGw=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yQpTzFCnBLpSnizrI/U8R96+0Zk=
+			9DwBSbls7KKZ7/DOtRdUd/FgkGw=
 			</data>
 			<key>hash2</key>
 			<data>
-			qBMmNe7qAKI/Zussi7G6y23L5vZmLG7A2eqIil/7o58=
+			ebdcl6E12/y3yzqLqQYmoCXbcxKVooIkvfl1QEyzBPU=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/public_api.d.ts</key>
@@ -13485,11 +13549,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7zZXqC3KNH4RaaRYM7jnkr2ab24=
+			klE0+rjT+n5EuXhpfaAybsOLtuI=
 			</data>
 			<key>hash2</key>
 			<data>
-			YGxwVek3xffgrz/JddCsRfmN1YZfZcFo9VR8Q9XdIO4=
+			N29lD79eHnopOdkh0UFLyslk/xOQ+lMqq1cIjbvnsF0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/testing.metadata.json</key>
@@ -13606,55 +13670,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bUXV8sPy9hQA3U782DqJ9aS8bVE=
+			v9qVE6OxwG1hvu6eJAc2/4R7jME=
 			</data>
 			<key>hash2</key>
 			<data>
-			m4RBBzIK5/OJld+CfzK78wRMb2xgeMHUpMqkIn49q00=
+			BTB9r29CEg9EBK6zGTlfOIkMRGJzif5krEa3rXtFzp4=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler.es5.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xvUaxjXylyzIlege0OvqCZ7p5IY=
+			dfgCgehbsYoRyRcyoL7Q5IOVOe4=
 			</data>
 			<key>hash2</key>
 			<data>
-			9xlKhs6vczZil9FwSMAYV3zP15K8j2oK4tMyJGevclo=
+			6/rvLA/t+6QPHGxtVgkjHCeSwJ6Hx+RfOoVPULi6iQc=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lukYIxbOuDGOV3iO0oOJJ3/AiA8=
+			3IBkUcJTmvQhuckfCp1AGro4pCg=
 			</data>
 			<key>hash2</key>
 			<data>
-			XJn6pE6TbImn0r5CaMzfiu2A1K/5D4jDTImBW5NG6J8=
+			Z9Wy4LPWvsudKsY2ANo4T4ekwAHfW9/rQaFkxhboY/o=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lUFH23JAcdqDFfW5WrqXQc4gLZg=
+			uSZ+h+vFw+0pELtbUEjiTwvI/8c=
 			</data>
 			<key>hash2</key>
 			<data>
-			k4MDeT8xBQoqmAX10sVNRK4PWcoGno2YJ0/3nK5Xod8=
+			3S2oIfHIXYpSFM4VLU75Qxe6wQGxQsoFInY1ZIPSaVA=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler/testing.es5.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5R8lD1abcXdzPouPwCJuzvgzgo8=
+			rFYXUqRqemwhVNHzowmr6S2C+7o=
 			</data>
 			<key>hash2</key>
 			<data>
-			fjIvwoSpwAD4tSQ+p6K9IzhbjQxo5L7Mup0ZzS+rTeY=
+			hXba2AkbQ4VflJ8qiiP831YSeYdYBVDdZApWgrIiLUc=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler/testing.es5.js.map</key>
@@ -13672,11 +13736,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0DTzUxZr6CkElrUdkQk0npvHSPo=
+			YsOI4XM2RoEJwdme2zY5+cpWFkQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			O422Ou/rZgV4TGzOaAh3NAuQlj9N4HEh19aZSorUn0A=
+			7ArfQZiNZa9WJmwN1T6JoEy23UW0souybfmQXwc/GGY=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/@angular/compiler/testing.js.map</key>
@@ -13705,11 +13769,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eLjGuP06Hql8to6qpTmNVJCkzso=
+			CBWo4nlhtn6+J0ar0dhs6JL8yKU=
 			</data>
 			<key>hash2</key>
 			<data>
-			YoZKf2cXxG5fz3LHldq6BO+vpPGYUK2l6BkvNLzlJYM=
+			X5OC96dX+nvEcJBN3/QDeVHeDEuwBz9akZZyZZkqfLI=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler-testing.umd.js.map</key>
@@ -13727,11 +13791,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k6Dw+s31SXeSU5/Uqlrxpvrk4gI=
+			WbLylY8TPw5EEylmoGzjK+aw/wo=
 			</data>
 			<key>hash2</key>
 			<data>
-			q1EHNR2loYnt4HQ5c+tGf+Ubihq5bNRkrjAdYNnWPIQ=
+			ZImjWwjw1BTrI9mijiogikWRNxirbWT/P0UVWCXQwR4=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler-testing.umd.min.js.map</key>
@@ -13749,44 +13813,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5nFRNHvTxca0c7HZi2D7ZcO6UGg=
+			TpayMNiP1xDiC7HDoIYmzvahIx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			iikQeY1dUGSrr9t4MqSjbeajx/j5D18LM62FDXk5oMc=
+			kslOe027xlcfB5WQOGTnNuJEP5pzGJYdN7wF6IAZlJo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler.umd.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8QB5ZBPv4uWnuxh6YKFPmuQKorw=
+			tH0qhhpl68/janTvqZWIhopnTEc=
 			</data>
 			<key>hash2</key>
 			<data>
-			NGR6QxDxbHXurre0YIzz2cacG4OmPDgkOElR4b/Xac0=
+			pJjpLOJPg1nb6TEanDfQAnu9V/8nVL1Tov7IyMdFOnk=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler.umd.min.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hlOjQHz0zy1y4GQR/dsj2sNn0y8=
+			aq3btqdKn8DUSfuSXQ/h8ajpLLk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kzw0OBblJGid9GX/KqkGqVVBdh42cxB17y5GEGfoMcg=
+			kG1pu0UTumlLZ1DRneAiBOkrT4y9emntRvuGanwsqno=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/bundles/compiler.umd.min.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			odhLK3YhZKKPIgS6wWFY1xd4hR8=
+			gE/9b36l6EtjG83m5EC8NhY+IUY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ymK9AuWof3jyUJ4ySha8gWFhdAI0b2JSlfXpmd0cGQU=
+			H79kOE2vAnpYt0+MgK64FzW9ZN/bcWwC6cAyevZ+9TU=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/compiler.d.ts</key>
@@ -13815,11 +13879,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			z25yKQJXDwJHGTv2g/KaBLMjxdc=
+			dj3EH24x2Oex027wV1JGFUm4HzE=
 			</data>
 			<key>hash2</key>
 			<data>
-			QJX2sSDY0Q+FJG3bFHZ4dxrFQpqajg9eO0InLfVQRlU=
+			4X+Ve2xlJcg2mjiDeFElFk6k+YFdWXXaLe1OLhqH2C8=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/src/aot/compiler.d.ts</key>
@@ -14486,11 +14550,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SGhD2xNZ88+CuzO3BtHybLz5KIg=
+			soRTm0jUmD23zl1GcEG1i8CszY4=
 			</data>
 			<key>hash2</key>
 			<data>
-			GUuNH/ff5iqa4qtfiWoDIc6FttL8Pqt/W7NsXPkgZMQ=
+			LtgspAUbadgQylv+fYMrq+ss9C5ISRWqoh/ewoy1QM8=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/src/i18n/message_bundle.metadata.json</key>
@@ -15729,11 +15793,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wgBRtaX3kk1ZS040rh83DdrWeZ8=
+			0/25uuw+daoakNjKbBDIVhrF46o=
 			</data>
 			<key>hash2</key>
 			<data>
-			pdRvU7vz7d+71xAQdIZzcKfm9IesK1XVPMJNpCPNtWA=
+			KZxsEQ102u1fE7GBohauKua4ZrNAx0N471RhAsWFDHw=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/src/view_compiler/view_compiler.d.ts</key>
@@ -15762,11 +15826,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7zZXqC3KNH4RaaRYM7jnkr2ab24=
+			klE0+rjT+n5EuXhpfaAybsOLtuI=
 			</data>
 			<key>hash2</key>
 			<data>
-			YGxwVek3xffgrz/JddCsRfmN1YZfZcFo9VR8Q9XdIO4=
+			N29lD79eHnopOdkh0UFLyslk/xOQ+lMqq1cIjbvnsF0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/testing.metadata.json</key>
@@ -15949,55 +16013,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Vx1xIS6+weEed2fLpxh2egr2lOA=
+			5Bey1cTpUOpzzznD/2+Co+DE5Qg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Laa3xinxncSNbgmvMKp0SemCcbMwYQyEezQvXNByDMw=
+			dnziPD8DO+BK1MnYKxHgXn8ToZNpiDvUDT2yhQG1u/o=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/@angular/core.es5.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			f3GRNKYhtkoYtiQ1QQAROhwQP2A=
+			C4sK11MjBZTQjnCVirkbVs9xcDc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nx+UWsw9tKQ7kp+jRat6Eq9HVeEJaBvSoyRLF+Jggxs=
+			WGaEWV8koEzE09GNGRGppEGosSKPOuclds33NpZyTvs=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/@angular/core.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BWt3o8xV0pktNsZLOwhO6hViHU4=
+			QBvKcWLecAfnsLT/NCsqlU9RFPU=
 			</data>
 			<key>hash2</key>
 			<data>
-			j1wytwR6pDFialRASWdyb8HuXAKabqy4u45zw8oV9A8=
+			rhJVBb4Xw/UDeeAm4aGm1N8xXO6tfGPL0T+Ae7diT3Y=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/@angular/core.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2s8qyNVSociL53pfgNzZ0fKI2yA=
+			rDPPOnzEpwTe9vAijhtTDxL/G7Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			6438EcGp+hJqtaIZen2vjBteIR7R3uD1tEXu0MSTZhw=
+			7lxlghZZLMxRwVe8t/ApLxIeVMghiBGzsrQc6iw5EbQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/@angular/core/testing.es5.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			piMdyTjBs7APOg0SldtVeDs/Thg=
+			GNIauS3TVO06mP9XOvPphD8B2T8=
 			</data>
 			<key>hash2</key>
 			<data>
-			PhHPYNOig9VI58SvMEKSdAjs1f43gJBlALxFfHtUSx4=
+			BiZIYEY81LKQBMgPH1X7J+frjelp7TgjxwjtTcHVce8=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/@angular/core/testing.es5.js.map</key>
@@ -16015,11 +16079,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zjfmFk5R3/axW23MyT8XeKlRioU=
+			osE7s93gVsNAW7OClTs6LddCDAI=
 			</data>
 			<key>hash2</key>
 			<data>
-			W5e2ZBO4JCOWS5SoHf8LNoJ8Pk+OF+ZXJORQNaYq4qk=
+			3BySO2q97Df9P43Hpz02S5mpXRdKTxgjjeSpQAJqJSY=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/@angular/core/testing.js.map</key>
@@ -16048,11 +16112,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yS6Dwrya7CZObFtEjAzsrBZlrkQ=
+			dtkDZTPA4324IDRNVZcqQ+MJH/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			z5/1jlQs/4hWoLgtKdZ3D0YWoLQWrVQD1I/4mCec2kA=
+			IDH6+uCcjq7EUAkMKDKA8f3nZm8CdkGZNKWjjqDT8Fk=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/bundles/core-testing.umd.js.map</key>
@@ -16070,11 +16134,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zQkNUxOK4kqgsg4piX+whYG8aNo=
+			c37j5NdEjomP4pltfb7sTRRivZE=
 			</data>
 			<key>hash2</key>
 			<data>
-			UaytRsQHZJQfEbS1FwssHkTPrBXB4SRUJamvFodDKxk=
+			0U/rt9cKoTQp8+3/NAuC//kzs+fZWU+Q6zrAy8yegAQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/bundles/core-testing.umd.min.js.map</key>
@@ -16092,44 +16156,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1NX4Bla82cnLq9qNQ4PV/L8w2wk=
+			J308AbcZxo56nMfHYnA0SHqVNik=
 			</data>
 			<key>hash2</key>
 			<data>
-			i+9RKmm2GpVEwbO5lyVmZZclLrTUozKseC+zM0vLLX4=
+			aXr6X+sVQoo9OUDUEVzdZBTYeBplddDUJ5L+5GAquMM=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/bundles/core.umd.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			25/fAPoeYpj4ihkAfrLBcP4mLpE=
+			5m1sCEYUnHv8T+k66NxSWcRlP10=
 			</data>
 			<key>hash2</key>
 			<data>
-			a5Hj2+18O3jVLGx3wdE/okXHr1KoLccx5roF5pABu8g=
+			cLAmTEfnzA2QxQ7PLRQSOR3erX9JCHmV9lWHs/O5FaA=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/bundles/core.umd.min.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vsOhBWlQY8UKiWMd1+LEqnZEfJk=
+			jEqAxl38Qb3JQtM66JEEtFaAPSw=
 			</data>
 			<key>hash2</key>
 			<data>
-			/ZP2h2WzYX3pReADWsQzXRYhgeXe0scY3ZjY9ZmVoLw=
+			5R+73iXwt6FYJBY4uUX8nV+L8apEQG6Pt/OwNshJmn8=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/bundles/core.umd.min.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G751e+HGvL4kowG81x7iNhOMHKs=
+			DBNWD8Ld0aAGgu9kTPd6L7QZeWI=
 			</data>
 			<key>hash2</key>
 			<data>
-			gq1maZ1dDD0aP839pT8G7vXP7VPU4FHmYSaV+WF9NZo=
+			v9NkVhfWh1e7Zu+56s2UBFazUN+BfIuMr8W+0nbSxgs=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/core.d.ts</key>
@@ -16147,22 +16211,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cSSGnSDAISllXfUmazi5JHPG9sA=
+			h4zgWqteYVookuj6BqrXapExXV8=
 			</data>
 			<key>hash2</key>
 			<data>
-			osvGSBlaKakA1fjy7R+VfbvsctKLbVgGaqJmPwIx3pk=
+			FXDLq94gCLxsQYMrYZmhf0831hfkmizlM8/U7b09g2w=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NX/JXBlYU6hsIZDDEUh3KXMZkS8=
+			6s3gBA1MwW91lnVXVovtkl4V65c=
 			</data>
 			<key>hash2</key>
 			<data>
-			ClIRw1lMuE/ztPKwp32ImLV5hONLDqB9ICEIGMOHrGU=
+			G5NndE9rKhFy6yxg+S9TAHbkS0GDMrpwmZxb/HRJCzE=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/public_api.d.ts</key>
@@ -16191,11 +16255,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SlZ+vqrLFUfCgC/eQdmJfBstZHo=
+			R7yg702pD/G5eQ9IThgP9xvnXac=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q/0swBsinX5VS85QmXi9ala8sxfBtaxZDNUShaDZAhw=
+			uzbNJjtbWs1dmwQT7aZkkOZ6DmlZeXPyNVmC4+Erc1s=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/src/application_init.d.ts</key>
@@ -16455,11 +16519,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cCzRHDsIWvIOJwpitwhWxg7uLgI=
+			6OjUa6YSlYIPt3oqfTQN2OR8TK8=
 			</data>
 			<key>hash2</key>
 			<data>
-			6aA9qJ9rxecHW0/VhTUEez0l4OCpfhlZYwMgC+hg94M=
+			Z3k3R+yEUIewQWMPu1Oqi/u5DtVYJy7LuyUTvhgdP+E=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/src/di/provider.d.ts</key>
@@ -16488,11 +16552,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Geqv511K/q8varn7g0cD8XqWDxc=
+			EDLIzjaxUZwHMEP2+CINVpOws/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			zOo6sBZv/ndiDQss55vEiolZb/dWMqsYIPu6vCwvSmY=
+			XW5AQ3TMTmyjyvM4DUanAMILsYfgLL3Agj85p0Viw5g=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/src/di/reflective_key.d.ts</key>
@@ -16543,11 +16607,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EMrMMAfOqYnNW2WCpC9twXIpgXk=
+			ozIXksYM4rX6bz18EdehcBerMaI=
 			</data>
 			<key>hash2</key>
 			<data>
-			KO61Qj6iWsgdtAl5Cn/P26PUrA9YAfo69m9JXPdAAhk=
+			wV3O2/sA3R2Uto2v/4m5iozrrPr3LhIu5rg91TQSqpo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/src/i18n/tokens.d.ts</key>
@@ -16752,11 +16816,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Yxg1sd3bm5mvJaTnDXyQZTwn/5k=
+			bb5jEtEkVFNxpNUeIOZl3NWyvJA=
 			</data>
 			<key>hash2</key>
 			<data>
-			8bKviq6EVBE30Lz7vcXYHQYiVK0AFGV4pU2gE2tv8Bs=
+			Z0og/F5AAmkoZQs7ZQUE0TeDa52wiUxAabF2zAMrWdg=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/src/platform_core_providers.d.ts</key>
@@ -16873,11 +16937,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ln9nUxzd4nreuEwUJhISc6iiXcY=
+			+IPY33ZwhlDhcEqk4XgXT0+KIB0=
 			</data>
 			<key>hash2</key>
 			<data>
-			AvrhiHpzQsMvslqqN6itnN7N7CCstZ3RkJ98hDyRodM=
+			WvCWuGKODhh1aVgjV/V0B+PDHWQ8O2pqd75z2Dzt+QQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/src/security.d.ts</key>
@@ -17082,22 +17146,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jSI7cDDtheaGf1RICrIH9L8fQXA=
+			ipqdIDthFP0wK4ZAJGWojb30FfY=
 			</data>
 			<key>hash2</key>
 			<data>
-			eLssJ2Oi/8pJ6xHXnuE0FHSikQD0nktQHLG4BWr+GG0=
+			vBfPGbr1fqethq7quQ8fYn5rj04G7HNq2Y6uaDDrFMs=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/src/view/util.d.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9dTM5xF7jZYXCWRNgoOEj5fnrTc=
+			rTsyGWEzXfFLzf7Ra413ufyRu1Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			VMaY5x2YxbCMHV9n5m7WwS8G073MrF6144Od8iQQo6c=
+			BX2olu/qd6MdOnmrWdNMx8wWK0curQ5/MimpTUhG6V8=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/src/view/view.d.ts</key>
@@ -17115,11 +17179,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZLrYKv1RjgBOLhTLAUEOuooTlDU=
+			CRExg/z1NfibZat4TLInsw9zvrs=
 			</data>
 			<key>hash2</key>
 			<data>
-			GDPc4uKzK6H7dtDjcTybVmjiVjH0O42YwdfPuxTOwNM=
+			2gamGLIuxWxxe44NhtW5ClpUZYDi4gSs9RkZ0MEaQlk=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/src/zone.d.ts</key>
@@ -17148,11 +17212,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7zZXqC3KNH4RaaRYM7jnkr2ab24=
+			klE0+rjT+n5EuXhpfaAybsOLtuI=
 			</data>
 			<key>hash2</key>
 			<data>
-			YGxwVek3xffgrz/JddCsRfmN1YZfZcFo9VR8Q9XdIO4=
+			N29lD79eHnopOdkh0UFLyslk/xOQ+lMqq1cIjbvnsF0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/testing.metadata.json</key>
@@ -17412,44 +17476,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/FxWJ+JUsnbcMrM9qdF22XVeCHU=
+			BJEUnCZcQxjobldG6VXXD0mg+sk=
 			</data>
 			<key>hash2</key>
 			<data>
-			drYp/TKWje1OmCG8mABnJWV6f61WhPQWpDqRWhG+DQg=
+			5/53LYUR0lR9/un/0DmtWE0QZUuTXnh36SP0gqdMVbQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/@angular/forms.es5.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VKw3oqm7izREwFZ+E75nv4uzns8=
+			Cp78LBRbmXQ6TVYq4TD9EmA59mI=
 			</data>
 			<key>hash2</key>
 			<data>
-			D4jHJ9zPESLCB/xAAPO03YAE9RDgI2K+NkW6jfDmyIQ=
+			rESVtWNSIQIlQb9Ddh7tvMG4LkIQnYovYj5ZXzNBOJE=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/@angular/forms.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uY4eOHlXo8OR7mVAxBsaOZI/8vI=
+			SaPCAa6nbxd76QUBoSvHZEmvrNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			3jQrFEc3pK5IPIQUGLpE8HyK7El1sd4EzzCRrsk9Dzg=
+			VeXBIvFB46D8i+TN3lkPXM2MYpTBHhPYw3YhgYZ7KX4=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/@angular/forms.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8xiGaAnvsMRqCIXrcPmZ5A0ywMQ=
+			D0+DPctsGoiNAOX3g4rQ4p5aKiw=
 			</data>
 			<key>hash2</key>
 			<data>
-			eMy6mJPKQP/8NnDb3TkJJKi61MRaKO8ds7RwZpZqlig=
+			0auEe0dy1pCzPiYEH+npDI2f++HakOgPTSJT8OxngOc=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/README.md</key>
@@ -17467,44 +17531,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BId9XiebiFlDV8uMTJQ2l8FFMDE=
+			7HGPGgdRK4ILMdBoS85Z+uaIbuo=
 			</data>
 			<key>hash2</key>
 			<data>
-			m5XmNv1VmPJTmpXF3gj2AZrG+mBK9NqHPClupkuHZZ4=
+			3tdLWW/lvr7wDZDgis88yKxKXPG+DgzweKH4Fv566FQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/bundles/forms.umd.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			klYkzfaUZkrSNApI+1daDmDTBag=
+			5TpMgGXx8Zc2WR7QSIpCGzu2oGA=
 			</data>
 			<key>hash2</key>
 			<data>
-			GqNmBmfvKOd2QaR++CRFFcDKNmJkcj+dBYP8LfWFoyo=
+			buMbyllmu4GM4Z49+B9LvHmsReKPGBj7clgz8axTfL4=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/bundles/forms.umd.min.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6XJHEk/p+nsMtKAu0zB0e+EhTic=
+			jX+Jz7Nc6WoIoehKSkurG2/cNNw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Baeik7SlX+qbPIaX/lpF1tCANnetRoTJb2842XzmvPg=
+			Fh28xse/44lvETZ4s1QDlASGZkAC8x3OVoQb69k8+Yg=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/bundles/forms.umd.min.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KldHGFQSRHzk9hldqSDeR9n3wDU=
+			20RxA1nc3m9OVn4e/TzEJDxedwM=
 			</data>
 			<key>hash2</key>
 			<data>
-			B9Y44tDTQP65ZK5CHJTLuE9sC5xHUE5UlVUxlazgPs4=
+			Rqi8tFaObFXCeCrnbp5WarIj+9qf22j42cEcLjUSMYs=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/forms.d.ts</key>
@@ -17522,22 +17586,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SuVOJp+AFu1NkdS17Jk7NWiL3fc=
+			uLD/OX2+rK8zhsuPoHwUM7X2xx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			wdK3mNgMnVH/pafBNVslom+Z5lA2TyzTZ9zVML/mbOU=
+			9b2t3eD6kPgbOb3xCxSciqPVpC8GSqYSKXhSKLyeze0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lHS5I8AuR4dMSpjHOL2MdSCpBaM=
+			9qVFkLbUKuKbWmJwHfYaOF3dqvU=
 			</data>
 			<key>hash2</key>
 			<data>
-			IgRs8Hmlppap33L07jUuiuZg1wB3t47+ZKanw7mUVWc=
+			0kD8gnnwRAEhJd3YJUPOuV6K/cZGTaqX7ctXnZMZPMk=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/public_api.d.ts</key>
@@ -17797,11 +17861,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qFhTG2BDzmF0/1dx5G+hkgGVPsU=
+			FTWJMpmvavJRzP3dlVZSCqENJok=
 			</data>
 			<key>hash2</key>
 			<data>
-			2KmUuN+DzqGxXMmr+qegmwx4kvrRFc9DJv1oEoLh3mQ=
+			tBV5WS+NWnl+cXSTHVQTuA+4Y1G6g0BTmD89LGQ9zm0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/src/directives/reactive_errors.d.ts</key>
@@ -17907,11 +17971,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8OeQpDLh1X3svQBaQSlbyvd1DaA=
+			EN4EVoHF5FJl52UdGgyF2l4pm0I=
 			</data>
 			<key>hash2</key>
 			<data>
-			9iKyWFJQFoJzVB65UmprPh53DQMU/Q2d1704vJdpDFM=
+			N7CCqU3Or1ej+cZ1sEFFjT0Mu9Emo9+fLAE65/XGSTA=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/src/validators.d.ts</key>
@@ -17940,88 +18004,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kxAR8Heu9P28N0hGocP/PcdqxSA=
+			Mja+PTXUnardrkZTg07FpJ6FK5I=
 			</data>
 			<key>hash2</key>
 			<data>
-			75L0Z233cpiubGUwpHr9xQTOAKifvwfE1hZDJRQgYvw=
+			v2hSlb2hbhspCgr2FnWinyxQ+c9SHnqPeue7u7FKung=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/@angular/http.es5.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4tK+UzyMteXJDD1kxcSo9qwpDuE=
+			HzO+uzs36/J9Ng0Tg3EB2xGROns=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qrz9hafdiuOCPDJQA0hjqxVzjk7WSQ6xnyBLQg2Da7Q=
+			q/EhOQg+g8mcuixdHOv6/6ep2r7hBoA38cZ44kvDpWw=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/@angular/http.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S0tteSOkzVehpPN7pywag4Pftu4=
+			TdcddD604g3ypsZZunEZITXXAGk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZNmIjs4ti63KGR7ZncGaVbPc6E++aXcLR1RdERbOqq0=
+			m6uBRwhCqfuq7KRCmWnjnGNDO1thWSuV5BjqvsBH9Vc=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/@angular/http.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cwAr+Lupls+zXbClQ5HNSa8u/p4=
+			kZ2A1k8owo17cYOkHwXeBOT8mNU=
 			</data>
 			<key>hash2</key>
 			<data>
-			8MAQ+e20NFW9WI07NOx/F6pvmsN3nI8tZYnhSAdvKv4=
+			IJcG5Sc4mGdmbVDcyIta1bJFaNi4rWu7ytUI9Ds0BFk=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/@angular/http/testing.es5.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I3MqsByxNSffY0S2CM2SUaqfhe4=
+			fovtUwrQksTuCY8dASrFxRHwBi4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Th52bQ5REToFFjJjRow7LzS7FDVBDGjKbMg6vZXDxbM=
+			fEnXylXrhrDW7LY33TjlKHEbA/OUi5TrCIQP3ZUWsAU=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/@angular/http/testing.es5.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qa9JszvPNHtXf+pV1PtDZOs64Mc=
+			aNHVDjDsQ6UkLFZU/eK0//At/lc=
 			</data>
 			<key>hash2</key>
 			<data>
-			u0X7IsoxFP+4B/ZD/sexaFvIxYdbqTEnCib21G3ladU=
+			ow+4clcikfXJGEfZv47Zd3B1XrQMK/s8TuCkduiynTQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/@angular/http/testing.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zm86spChs67d53nGG9kvv60rVfI=
+			qwwBEpEY0W4eQWNSMzLdKJ7feNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			BQ5mdJpGqmXMZl/vjtWblQcirgycTYb73NLEjkGHPn0=
+			lJzOrEX9nyq/4TN083xdL+89oIx1T9hL+oHlaZpNuiE=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/@angular/http/testing.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q3ymqU72I1Zs6A0U+THDcQCLhRk=
+			TsIgz6CFRQMnfM/bDy0dgdO16as=
 			</data>
 			<key>hash2</key>
 			<data>
-			DX7TqpUEIE3B5AkfPlEMvG7m7YwhRQq5LdSyC2eV3/8=
+			cK0ij+3P3yloea/tnU+z3ehfk9ifJHd72avS1FLZVIw=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/README.md</key>
@@ -18039,88 +18103,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6xm5BMYDs0EVzBhzKyhhJ2ehAK8=
+			SHfUhLJ01YhhVfwT7POSL4Fyq+A=
 			</data>
 			<key>hash2</key>
 			<data>
-			OLIuLS4+8ofdrBcXM15RIYGyNccLbiGjAoZsHlY3TgY=
+			oIp+XxVsmqvJtfizd9XiXILQVa8p5ssy1oWa0mVUL6w=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/bundles/http-testing.umd.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			41frrhSYThFmRFvYJHE1MRfF91s=
+			tshfZcSbbMTbgVOF3ZciOSijU7U=
 			</data>
 			<key>hash2</key>
 			<data>
-			FG3dCU8ZW6GLjep3X1Fe9xWsL5FzRE7OOCD1gO2vU8c=
+			EDIt+LA0w/+vnt0h+UjVaLj3ArrFxcQ47f+OIaT1kRE=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/bundles/http-testing.umd.min.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vkCPfUuQEOMBY5gnktE4F3vjBbY=
+			wvASh09QSzpjaghWTj9X/u8JPTM=
 			</data>
 			<key>hash2</key>
 			<data>
-			wc+s4c5VoSzREmhI/G9vuQXInYZoWM63ui7OSS1coxY=
+			L6zu3jkfu7v2SWe2JwJOR8ilU6JQIqmTgsKbVxN/CS0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/bundles/http-testing.umd.min.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VHXzLGj1KS5w9Vm7rrzb9edKslg=
+			IMMx2fJ4kwfTW20wWqSK6LJspwE=
 			</data>
 			<key>hash2</key>
 			<data>
-			J0W6bOcvFI1Yew+nymxauemkSQECkmMPU2nKfrMqDmk=
+			l0b5byx+Sj5sFlldyTsIqMV1XocKoOeJrwHndwFfbD8=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/bundles/http.umd.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j/GVc2kKFCVBowBkpDB0XivtL6k=
+			qsPBee9Y/O476liH9GJG59Xtaqg=
 			</data>
 			<key>hash2</key>
 			<data>
-			8vzNC/4NTMcR0Bncwhcf6cWcQ6LvwUAaZ14weHzSU38=
+			XjOxgqmeDjAg0/jmLaIZG2uMjRe5x78+8ioo8dxLrNc=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/bundles/http.umd.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nXgeh7DjePEt8USLu4iZMC5+fJE=
+			xzRq+9iYcCFAikGH3EAz0Tw4nos=
 			</data>
 			<key>hash2</key>
 			<data>
-			P+D7sRijWJxY1nWeOYhAhC8Z0NIl8FP/VvFlc4azrHY=
+			rfLJHGq34Amg9jvyTHj/Likf60Wyp6dGEv/tX9/Xd4k=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/bundles/http.umd.min.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zcp/AmNJm4xaUDLR2OYPC7aclvY=
+			vLQ9mPVA4Opqo/5oeS6VN7XPFRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			y21rii2zBdfKbtihvnw2EMFRF4Fi4XKinsH1Ce6g3Fs=
+			QAL/08/GNRlSt7xzWX9wEXEjHoe3iQdDXHhYghFKwYw=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/bundles/http.umd.min.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G9pCXqNFGIaKgXj9s3E/wniKFwo=
+			GTNtZrNjSE3AcaK0skVRQbq3+Zw=
 			</data>
 			<key>hash2</key>
 			<data>
-			cAzGa/nONWt46KpYOKNstdDaOOQQTZkZlwy7F3vY6+E=
+			Bk8+vHzNczBA/a6E5Wfl3VM/2EJ+eoPJkge+PMxuA0g=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/http.d.ts</key>
@@ -18138,22 +18202,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8b6Xx8mTgKqYfR7hbu5QkGERJXY=
+			lUshyUYpsIi2XVar+rw24rJ3gKM=
 			</data>
 			<key>hash2</key>
 			<data>
-			HcAukAmkXqwgB30zebRuPb5wzrBcW1JDvG/N3UqCHQ8=
+			RyrHPYeGKeIg0RTrrH8rFNPUqD6Vc7fqDirg//cn+Uw=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8g0fPx5uhCg56MmpRZWs5r0NvJI=
+			hgxge9VmvfuCQzWozyno4R8SDmY=
 			</data>
 			<key>hash2</key>
 			<data>
-			msqXEjQEeOM1S6YTTHU8ZnBENCKRWOIDWo1NYGfcDQ0=
+			5+ti3GLzfK6Wsc3iwrtxgYyJKn2zMt9sFwzcjo3mR6U=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/public_api.d.ts</key>
@@ -18237,11 +18301,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mPyCe4JiPTrBdZwZBV5FM6ErfeY=
+			JM3fhhP9mAaqP7OxMYDdX9gwV6I=
 			</data>
 			<key>hash2</key>
 			<data>
-			MQpKt6ksdhQo9u5KrN+7ZaAx++KPbE8oFoO2Jaujdh8=
+			mD65N5y/0phaSrBqEAqj1HkdlE+aD+wgfeJM1zxwgKE=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/src/enums.d.ts</key>
@@ -18292,11 +18356,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4o/LznJSrdSv+CzenX0npyiZOAI=
+			wikRVLv8M5AB0Kf/gXk+zmfB+RY=
 			</data>
 			<key>hash2</key>
 			<data>
-			EfxnUdzau0QSilFHNJO9se6vfRoa0VHSyJ/cooD3IeM=
+			orWTgwRpsAGuvr0RKUn4NH0GUvJbgQ4WCpYwxK1szBo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/src/index.d.ts</key>
@@ -18325,11 +18389,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iU+mqw2KCpjFP8FKcvX9EIk7kB4=
+			/WeI5HtFxM6JlTq7ElKORl8jT6Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			u1EcDgZebcLekp+9UgFvzn4xLJ1eKDzLAmmFOfKegLc=
+			z6FfjM/57L8viCTOndJ/nRxOcvCyfxgNs9IVWbmwCfo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/src/static_response.d.ts</key>
@@ -18369,11 +18433,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7zZXqC3KNH4RaaRYM7jnkr2ab24=
+			klE0+rjT+n5EuXhpfaAybsOLtuI=
 			</data>
 			<key>hash2</key>
 			<data>
-			YGxwVek3xffgrz/JddCsRfmN1YZfZcFo9VR8Q9XdIO4=
+			N29lD79eHnopOdkh0UFLyslk/xOQ+lMqq1cIjbvnsF0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/testing.metadata.json</key>
@@ -18391,22 +18455,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			If+roiADbXKYTqSD5e0VStvSxq0=
+			DXECxXOEXQDrym2thVWGhiwdOsU=
 			</data>
 			<key>hash2</key>
 			<data>
-			HgAD1rq5u/FyRb3j9vxMs11PZSMnoc0EPexhjeoP5bs=
+			ugtic3RBqZzy7MrNG2oV96+v+dIn6oht0YrDQV/1ULM=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/testing/index.metadata.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			naztlCgfZzn5p7bCi4zqN8WRcUE=
+			uE12+rtztMrqRtlX4qMFJGrjO14=
 			</data>
 			<key>hash2</key>
 			<data>
-			BbaCtCi8mqS5db8dhLTdMuFp1j6H6EYYTInZtwlaKVU=
+			yIMCR0IWOQxDUI6PQrlKrlQ4D4xwkQUzpI/LJO3MSCQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/testing/package.json</key>
@@ -18418,6 +18482,17 @@
 			<key>hash2</key>
 			<data>
 			t/rAucC99Gn32JebRm5/s0nZ/wpAQZ9H7DGjrNDUOis=
+			</data>
+		</dict>
+		<key>app/tns_modules/@angular/http/testing/public_api.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5sRla+FPG5KXVU2cXklctv5SV54=
+			</data>
+			<key>hash2</key>
+			<data>
+			u4X+tB71k749mf4h/uFlGD1bq0I6QuOFx9yYlK/xqdk=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/testing/src/mock_backend.d.ts</key>
@@ -18468,55 +18543,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			higQqgekd90rmUAbLXz1bdKIcSg=
+			gzMe/U9Z0sYMODxmcI7M35ge3jU=
 			</data>
 			<key>hash2</key>
 			<data>
-			NFwBQ8EcnF97A/Xa+6Fdb7QVOonkdwX+IT3PVSoh3Yw=
+			JQyu8Pw1uRMdMhl7xlu3wzpTagZpiB9pOY1ob+wdD00=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser.es5.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lpCulp+Cankbyakptf2Y+iS+OkQ=
+			oMCzz71plRbGx+R3OoIZczOf79k=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sy7oT9dwj4TULQTB8gj4zfWvtjuoGIc6uuVD1n9GYfc=
+			AHLvidDdmMmg8ks4IPSyWqigkV5+VVVMYF1vCZYao2Y=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CAF+V2cqkudW2KuStHazIMXRGbQ=
+			48583ejk9S8808DsIYg/TC30J3I=
 			</data>
 			<key>hash2</key>
 			<data>
-			EmXsRvsi8p4ZoQi6QivLOsG5NqcKc7uOqJFoahjSEMk=
+			y1ndLopyFDegGAJn2604n0aCZE+nVppzZii6/JSCT+g=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cACFQas1rhqT5tzjV/4qd5mgvHQ=
+			TRYZmlLv1AUB4LOmMzi8ifLqt0Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			qys3bLKmkIaraGJNDzvRyjP+6Fr8ilVCu9vjA3+zWvs=
+			qSI+dsFSCEopriMpxMxVQMmsj/04UX5quTRbfmfX2NM=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/animations.es5.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VY6UphgePFd4I15ygQSiZlAP/30=
+			ftv6bJ6iITE89EI2oANhVK5kuCE=
 			</data>
 			<key>hash2</key>
 			<data>
-			iAvVMhh89qgAS0TDUcZzQuY2jT8o2EhRhtwTcl2NxmU=
+			ingXog4iGR+rOPXfN0NkUEY7K6+9NyasXWVgCP5h8u4=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/animations.es5.js.map</key>
@@ -18534,11 +18609,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tpA0zPmqrY4fF2jj8fmm8eJrcHc=
+			0EMF9jfe+f/Mn1VyZQkQhbsaRzQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			MYH4wH70vpHVciY9kSj92TrxQknFtDvVOLcBQqKTO7E=
+			Dj0F8Q8o3CShRER2y8nBkIUVRPIGxSJDbfbxk9Obawo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/animations.js.map</key>
@@ -18556,11 +18631,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uncOlCaKe0/lFndPC7RteB3UFfU=
+			PCE+b020d3ik/wCl2bgyv7nZrc0=
 			</data>
 			<key>hash2</key>
 			<data>
-			yCaC7iv5lVp/N2E6s5A/9OHz6At9e25lTuTE1GxlhMA=
+			GkbYnFaEztp6237qfXgiTdJa9Iw3pS/07V+br9t2/xs=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/testing.es5.js.map</key>
@@ -18578,11 +18653,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Tw6h9dlEgm2tNUqj+1OcessN5JI=
+			LRCThLyk/6ct6W3Dv0Sj14XFbIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			z4OdVyaBLjwcdvwNt3XP9ULCWkhaBBtisM0AaVwR5qk=
+			v30Y7jw6lCk5pwerJtMNGaEkW85E9/d/YcbzSFLxUCA=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/@angular/platform-browser/testing.js.map</key>
@@ -18611,11 +18686,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4/UdLEGJTQiUkAED/U4dE1kG6Xs=
+			V3kAwL6/DtmFqcltSa3lPvvRd60=
 			</data>
 			<key>hash2</key>
 			<data>
-			tP9cOFh5jH+Ehp5Iy8YZ9NkAQlEiH9pDpekXTsssJLM=
+			Tm6XAbOo1bMZQgK2vzs5fVRZNP2XtoTLvt4eyHgR4Dk=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/animations.metadata.json</key>
@@ -18732,11 +18807,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WdJIci4LTuP1mJHHqAMWgAGyRR8=
+			qwZ5llC+WC/88hGfYVq5gYg9+Jc=
 			</data>
 			<key>hash2</key>
 			<data>
-			XMzezj10o3+VAW2N5Few/VeD5vzd+ejDlBmGHZu6Vw8=
+			Ddo9nTDG38M6o2Nv2iOtaQChn6o6MXXV6ZVIO801xUQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-animations.umd.js.map</key>
@@ -18754,11 +18829,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2QlQPFKHK6U62wa7sxo3CYjWHHo=
+			Qd0/WZjRdWnL1lOM6UYGYC6uEuY=
 			</data>
 			<key>hash2</key>
 			<data>
-			tBFZPCfJa2D1qGHpL6w6vW2PRlN2qMU++lyaOGsI7+0=
+			yXrLJ11CjHf33Zv4mr+v2EsqyHRQ2ictACFPE05fNHY=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-animations.umd.min.js.map</key>
@@ -18776,11 +18851,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1/QGLoI5WkQpMOacpdiD36Y6SBA=
+			L13tUN31w2ieVWC8JKt0ZtODw+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			u9HBEQtL65B1YLBBKJDUcGH00byFN4zOtMGHqyzXngM=
+			VLgb/Z727PNoGACIAWhHQLTel4ovKpLCJJibVeUq2Pw=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-testing.umd.js.map</key>
@@ -18798,11 +18873,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ULrIwECC269svYbTWJaiYK+rXXc=
+			mQ866FIjnw34F5cMUm0jbzpHlI4=
 			</data>
 			<key>hash2</key>
 			<data>
-			LzeQCH138h0559rdkmJnJ3bCTNXVZUIF7OdWc9wcNg0=
+			cRw45j3nwp9/1JVAIv2U/0VcyTItyMQyFmpXSjAq1To=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser-testing.umd.min.js.map</key>
@@ -18820,11 +18895,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5+Kb4rlHc6Pn8uwerjWekwErWfI=
+			PAAjJOkRANikodaW4VY8ko/dfvE=
 			</data>
 			<key>hash2</key>
 			<data>
-			T6PcLN0+Jpn6P3PClPo5MsYc+GxK5cTmYdDaSV4ndLU=
+			KIKlfsBZJq2NcjHkwZrm3dyH74XT9kzPPwgAS5kJxpU=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser.umd.js.map</key>
@@ -18842,11 +18917,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UIfuuWTIsfCL4Ql2+34KsX9cY0o=
+			JTqsiSxgaFb0h6ew/pMh6KZpMXs=
 			</data>
 			<key>hash2</key>
 			<data>
-			54E8n3bCPUVCwSbRgSXrr4DAFofdl8wFdqX4tU1Qes8=
+			GK9m5leJyPKa/UpaxeIBDlUOwzVviaONyc+WbHElBHI=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/bundles/platform-browser.umd.min.js.map</key>
@@ -18864,11 +18939,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cc5fPSMM93cNFHc0NzOo8aq4JcQ=
+			+Yo26pS1ne7AGZe3peBlxG7c3ko=
 			</data>
 			<key>hash2</key>
 			<data>
-			S4+S3R3aQ6DwzLN/gaF6UQyIuVUnooFBme8zStGlK4k=
+			FehodEBMwGumaYUj+spdeYarPlyNA86b37y75LWBOZA=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/platform-browser.d.ts</key>
@@ -18886,11 +18961,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jA4Iq1YbB+mLxXbivinZ25u6brw=
+			tnuTbUzJeNy0UuBqCguP/nirPaQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			LUOkB2HvAfr4PgI0boeCk19NoyYI5cUqxlBGlBYSDS4=
+			ZwFE89dkZtqxKxYr84y9QBosGgOY4nUgAnhriB7KrqI=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/public_api.d.ts</key>
@@ -19227,11 +19302,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7zZXqC3KNH4RaaRYM7jnkr2ab24=
+			klE0+rjT+n5EuXhpfaAybsOLtuI=
 			</data>
 			<key>hash2</key>
 			<data>
-			YGxwVek3xffgrz/JddCsRfmN1YZfZcFo9VR8Q9XdIO4=
+			N29lD79eHnopOdkh0UFLyslk/xOQ+lMqq1cIjbvnsF0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/testing.metadata.json</key>
@@ -19348,55 +19423,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xOlfq0eLmkKceGqo+y1LjvEzSIw=
+			YyxHDfCJy1Oo1IiAvXX08bVMYvw=
 			</data>
 			<key>hash2</key>
 			<data>
-			T9fRsX2yhKjvmJqkVi0GwIOAvwqC/RMJve4hUmsM6nA=
+			amg+d1PIRB2y7C/XZxUsdZ9bNfatybivVmSOBa60+tg=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/@angular/router.es5.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LSuHAxfl/pPOGoP6GjCoXizQEJM=
+			tRUqtpBDt3J2A9cafO8LyQPzvzk=
 			</data>
 			<key>hash2</key>
 			<data>
-			xd2vCRGoa1smDFzQreVqx9YbqYQJ4kNj6oN+fumaIvQ=
+			WZX2AgOabrqjdfJN+ClbdWdkBedooKjVg62awxb9Coo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/@angular/router.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/WO45dYYuQ8OUz6clypcQuKG09w=
+			Y32zFW2V5DPLsxgarVGjlLyHmcs=
 			</data>
 			<key>hash2</key>
 			<data>
-			QHy3RlAAWw78W6qyn88ZYq/aBgKHCC3a2KdfvFatUl8=
+			9Vn7CVyay5JqZ8sb9qX9ktgWnfazvHpyVB66gNsTguo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/@angular/router.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S7DUhmQvv8V+nEfdd/OoqckokJQ=
+			7zSw/+FcVNRs9sivLILRF+fJu20=
 			</data>
 			<key>hash2</key>
 			<data>
-			LzNqlo9vqn3reR+5doO4+ikuIduuTvthpaIDA6jJmD0=
+			h02+u2EhA0aa85Q2DcIya4baSj5Z4bGSxOuYHsMuOrA=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/@angular/router/testing.es5.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z1/9VRTzG+f5DH5VmvC5Sw2Lc7I=
+			srTmZyKroKDg+Nsu7fuy3KFbCag=
 			</data>
 			<key>hash2</key>
 			<data>
-			6kZ3KYgVgJDIhtZNrHfI8EkE9GpqgSe64MFG/oYAWAc=
+			tlYkcRq4SlfcmrpiidcB6BZf9IofGRMNKda4mkobafk=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/@angular/router/testing.es5.js.map</key>
@@ -19414,11 +19489,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sUbN8ofavpXDt8AYDziDE7/P/b4=
+			fNiYXqHey25LSoA6FJ9Hu7IK7xk=
 			</data>
 			<key>hash2</key>
 			<data>
-			E5IJJ71OrIvaSFIAR5g47YaKyBnvxwTBQ+5cUqr4vVw=
+			XZCX52R53sdDOSWLAjLx07peSCWPpkSDzV1E1sjJ9Qc=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/@angular/router/testing.js.map</key>
@@ -19436,11 +19511,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G0gcqhJ8C9GBy1w0rSnDA8mxC6o=
+			v5kG+8+8ifKxrm0leVPyRd5SKgU=
 			</data>
 			<key>hash2</key>
 			<data>
-			aYv7UW/PbHZp5Vky6M7TQgiHVNQ4rBxiHdFB186PmGk=
+			qcC5a7IO0p3WFvFFPZA7/B/RYDoymemrPkqGUnuIWzE=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/@angular/router/upgrade.es5.js.map</key>
@@ -19458,11 +19533,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CduU/BwWECbyfOjZrQbEr4Zxjco=
+			lwVmH8AtmQmnSbImOF+sf9419Ys=
 			</data>
 			<key>hash2</key>
 			<data>
-			3RudYaIekd2elaVFcOFSSWlYrdh298R3YSpbvMGmjNQ=
+			rd/wY+yIx6iB3UI3Vz7kU+6K8PHL3XoeAbK2NM1XGZE=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/@angular/router/upgrade.js.map</key>
@@ -19491,11 +19566,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pNEehe8bbD7XKPswO4eP3Irhp40=
+			ytgpQWRSPeH2/S4Yu4QFGoVAPnE=
 			</data>
 			<key>hash2</key>
 			<data>
-			dAGUWlj2jxh28iCgLld2n1lfmXSyyS9UwyHfS5RRT6Q=
+			cmNEa/COCrTRhzUCTr3ZbYBk26lmjPO2avBs4H5d8Qo=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/bundles/router-testing.umd.js.map</key>
@@ -19513,11 +19588,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D2TIu4jvefMnpvfsp5GGbZt1d2I=
+			0iUCy7/7oo2ZMAFxPPAvvPeEHU8=
 			</data>
 			<key>hash2</key>
 			<data>
-			I/kNn2TkJpRebQrNnWv70cG72NMlmSl7wUrC6f1rcG0=
+			8wtk5QyZlscb9nthcolH8pxAhfDmEWQRlleb0da1ukY=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/bundles/router-testing.umd.min.js.map</key>
@@ -19535,11 +19610,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P6VTQdC9BwizGhejhuAsqGrg4eA=
+			uUMZrT/EZKpuIQld82eSiP9drEc=
 			</data>
 			<key>hash2</key>
 			<data>
-			PRf8cH1izTLDC+8X4AnDAskDkCnKY88lXqzOpsw3PTg=
+			faNHvnVQPHCkUPS/noQke/Jmh90HhdDWOf1Bh6fKdxk=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/bundles/router-upgrade.umd.js.map</key>
@@ -19557,11 +19632,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gNuSzPA9sUeingb7KenxWy+dncQ=
+			Y1/MF/t7/0YJGof2OMQoA6fL+ck=
 			</data>
 			<key>hash2</key>
 			<data>
-			umjJSgDzeEuDpSCGXo1N4UiDOq7be1BZwVtcaqXV6F0=
+			E7sCO/QneXg5d2vksuO4r3MFb6N0eOW6g0Yw3TGBGlU=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/bundles/router-upgrade.umd.min.js.map</key>
@@ -19579,55 +19654,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5w+pyjdP8kJ3q3vXBFNoUrpCbnE=
+			rEJFrPKKEbvt8I/gpLCr6rlHGmE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fjv9aihd81dcwMaB7xkCl5g493Ofz8/T89GIb0Yuvn0=
+			X2kB2EfJ8tLsoE/XOtO36pog/jAj2poFcCtuCiwlswA=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/bundles/router.umd.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bNEhKUdV4PiYDPB6MTilk0RAdrM=
+			vRPQ6WSGCE7iOYxl7iIerp/xnV4=
 			</data>
 			<key>hash2</key>
 			<data>
-			sTr/+6lZ9yNEV0FP+G+l6kUErZsdX8I0yZxr3BRcdLY=
+			scwQENoacJ+iMgp6BAne3nM6W1+KLIqGiEp75k6XM5M=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/bundles/router.umd.min.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3QANHf/d7BtR66LSrS84jH9mNR8=
+			kjF72q1hb/eIzd7GkPKZiImb6GU=
 			</data>
 			<key>hash2</key>
 			<data>
-			9gU1cmjg20BRax7YcNlA0wcj0rsOYEgCXsS8Ln1cnkU=
+			h8NXvCT2AJwPZMt0IPf6M1dAI/M7+ry35fnpQsv24VQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/bundles/router.umd.min.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oA1Woh0FFPLoMdVYlJanbyncqrE=
+			USx9Q6ZvNGCqRpwC57TLpWBJKHg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Bzl5tS0AxFMRGBs1KkxEpG5sVgyt77tiSVSqSLh0uh8=
+			KfvDQDr3+cARrlPwTcO05G+zjkIg8wt/knQ/hc5HhBQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0Vfcq0Jh6++s2x4uPlV/l2FZ2SM=
+			ltvGtxD1BT+JGsR42FRLTKeLaw0=
 			</data>
 			<key>hash2</key>
 			<data>
-			epRfoX9DySHqG3WjY58oAx7OoarxE0VzeMiZuOETumM=
+			iDUPPf6dvGyjGbSHdYlmNcKtQbk4m0yv70wT8CXSbaE=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/public_api.d.ts</key>
@@ -19656,11 +19731,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TcHCAnPlsXubS2j5/Z1k3/RnztE=
+			vq6LlT1tswU9TYPz/fMBvh2l6Fs=
 			</data>
 			<key>hash2</key>
 			<data>
-			gfv6WwEj/61byD9wUifiJ3Zs84ASmKz056ttDoBJ3WQ=
+			tL06JIvEvERnLCxNr57zF0hJezZ6xMVu6QQMmlrzkhg=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/src/apply_redirects.d.ts</key>
@@ -19711,11 +19786,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Res+65UGNS5x7fw/N0l5CNPt4No=
+			+pj7pzFoOxGIeS0ZF+d5k6vMaa4=
 			</data>
 			<key>hash2</key>
 			<data>
-			XDW2DFajFbTp1BR7alKPav9QVWmkdka2Y/ay7gjnI8o=
+			ual09I1vHrCMeZD3g9UD44gLCwDLUxgSjYA8v7EzKB8=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/src/directives/router_link_active.d.ts</key>
@@ -19942,11 +20017,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7zZXqC3KNH4RaaRYM7jnkr2ab24=
+			klE0+rjT+n5EuXhpfaAybsOLtuI=
 			</data>
 			<key>hash2</key>
 			<data>
-			YGxwVek3xffgrz/JddCsRfmN1YZfZcFo9VR8Q9XdIO4=
+			N29lD79eHnopOdkh0UFLyslk/xOQ+lMqq1cIjbvnsF0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/testing.metadata.json</key>
@@ -20041,11 +20116,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uo6wUfjgCxzRqC8MqauYefU5TOI=
+			WT7oXgzpyQ3xI+aTAon6e7cn8m4=
 			</data>
 			<key>hash2</key>
 			<data>
-			cav3DpufXfqZ8tnKa65VHf6Gzp38JvNEzMuTPkgA5jo=
+			lutBdp8zSntTetvyjieI6oFSmF3/rih7UbGvV8R/10c=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/upgrade.metadata.json</key>
@@ -20998,11 +21073,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hZTrj4dAjfgLnKAAOQpD9Rn/94A=
+			rg8Al3Yh8xgGQn6WAnkUMrvt2sc=
 			</data>
 			<key>hash2</key>
 			<data>
-			cv3oYISQkVC7qZRpDtBpPscXI9vL6Wpgo0vwB9i5+1Y=
+			JZOOKmJYQJk8BAwFVx5PfwZfXgQFWtq2xojGrLtwWMo=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-angular/platform-common.d.ts</key>
@@ -22131,11 +22206,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fKnHB1NfeLI7NJt681Pek16IRtY=
+			3O8+PoSU39lKftU7G4B6dOjXqfY=
 			</data>
 			<key>hash2</key>
 			<data>
-			egAlo4+UaGd/rP3SoVykSp57HPVgO/EeMR7drCvC71U=
+			I1mOTXx2VB6Q+0+6ZATjQJEpm2Xp7KsXYAEWkUsNxxY=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-theme-core/readme.md</key>
@@ -23253,11 +23328,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8t2qoMTUw8UcJp9zjplxI/9X1+E=
+			q5ENx7D1lL9C89FiGMkzsiLMTpk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ilDX89c2Kqe/A19B71Wx6Kpf41BGd6XgPrIKeOf6JvA=
+			JXrUNAQvyNdySbcDhmk2XgWEwNt4lkE1KUvcIPk3zK4=
 			</data>
 		</dict>
 		<key>app/tns_modules/reflect-metadata/reflect-metadata.d.ts</key>
@@ -33384,11 +33459,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ItkEbB7fU4+khji6JUDVkN/sfIE=
+			d3l4CY7rr4E1zBTbvmAdrJkkOO0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ooILaCWiHkN+AqrSxskhdDqxNNkWcFjjXv9EV0rKAF4=
+			80vRu353y8fNMugfipJ0qFCUubqX74P61SX1LXF9R8Y=
 			</data>
 		</dict>
 		<key>app/tns_modules/rxjs/scheduler/Action.d.ts</key>
@@ -39720,11 +39795,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gQTk8ibV4pgVlqZd16bVIw7gbVU=
+			X+tUO+JKolbgRhb6SP0f0C+70k8=
 			</data>
 			<key>hash2</key>
 			<data>
-			1fdXmRcb7OwQswf3sRn/N5LDap2L5Mx1ZPNfdVPyQSo=
+			VOPplA0y3p5bU0wRNPL53ZzJ5xeI7cxrAkyQJCY7P0M=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/platform/package.json</key>
@@ -42426,11 +42501,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V/v1OxjGWWIVXdIWmOephEuW32Y=
+			eLrct00QRqG8jIO+N6ZuSAdNT48=
 			</data>
 			<key>hash2</key>
 			<data>
-			uPZJj/1XOuyZ220bOEM0c9J5JPfNGfdoIZK/+PawpGM=
+			P6WK0z3i90o3txhaRfo72LTUDRlZhnBlU3IXFkXh3x0=
 			</data>
 		</dict>
 		<key>build.xcconfig</key>
