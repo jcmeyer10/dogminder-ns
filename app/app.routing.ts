@@ -7,7 +7,7 @@ import { DogDetailComponent } from "./dog/dog-detail.component";
 import { DogAddComponent } from "./dog/dog-add.component";
 
 const routes: Routes = [
-    { path: "", redirectTo: "/dogs", pathMatch: "full" },
+    { path: "", redirectTo: "/add", pathMatch: "full" },
     { path: "dogs", component: DogsComponent },
     { path: "dog/:id", component: DogDetailComponent },
     { path: "add", component: DogAddComponent},

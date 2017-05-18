@@ -22,3 +22,4 @@ export class DogDetailComponent implements OnInit {
         this.dog = this.dogService.getDog(id);
     }
 }
+

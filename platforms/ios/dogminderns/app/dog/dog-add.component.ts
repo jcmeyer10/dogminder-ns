@@ -10,8 +10,17 @@ import { DogService } from "./dog.service";
     templateUrl: "./dog-add.component.html",
 })
 export class DogAddComponent {
+    dog: Dog;
+
+    name = '';
+    breed = '';
+
+    submit(){
+      console.log(this.name + " the " + this.breed );
+    }
 
     constructor(
+        private dogService: DogService,
         private route: ActivatedRoute
     ) { }
 
