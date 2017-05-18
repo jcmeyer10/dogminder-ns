@@ -1,7 +1,15 @@
 {
+<<<<<<< HEAD
 	"time": "Thu May 18 2017 09:04:29 GMT-0400 (EDT)",
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": false,
 	"changesRequireBuildTime": "Tue May 16 2017 22:13:01 GMT-0400 (EDT)"
+=======
+	"time": "Sat May 13 2017 16:56:48 GMT-0400 (EDT)",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"changesRequireBuildTime": "Sat May 13 2017 15:41:43 GMT-0400 (EDT)"
+>>>>>>> d1f0903a18fd2081bf2b39cf8cb58e8404b36b92
 }
