@@ -4,7 +4,7 @@ import { Dog } from "./dog";
 import { DogService } from "./dog.service";
 
 @Component({
-    selector: "ns-items",
+    selector: "ns-dogs",
     moduleId: module.id,
     templateUrl: "./dogs.component.html",
 })

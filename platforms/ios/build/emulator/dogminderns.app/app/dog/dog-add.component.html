@@ -1,7 +1,7 @@
 <ActionBar title="Dog Minder" class="action-bar">
 </ActionBar>
 <StackLayout class="page">
-  <TextField hint="Your Dog's Name" [(ngModel)]="name" autocorrect="false"></TextField>
-  <TextField hint="Your Dog's Breed" [(ngModel)]="breed"></TextField>
+  <TextField hint="Your Dog's Name" [(ngModel)]="this.name" autocorrect="false"></TextField>
+  <TextField hint="Your Dog's Breed" [(ngModel)]="this.breed"></TextField>
   <Button text="Submit" class="submit-button" (tap)="submit()"></Button>
 </StackLayout>

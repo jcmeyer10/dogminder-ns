@@ -10,7 +10,7 @@ import { DogService } from "./dog.service";
     templateUrl: "./dog-detail.component.html",
 })
 export class DogDetailComponent implements OnInit {
-    dog: Dog;
+    dogs: Dog;
 
     constructor(
         private dogService: DogService,
@@ -19,7 +19,7 @@ export class DogDetailComponent implements OnInit {
 
     ngOnInit(): void {
         const id = +this.route.snapshot.params["id"];
-        this.dog = this.dogService.getDog(id);
+        this.dogs = this.dogService.getDog(id);
     }
 }
 

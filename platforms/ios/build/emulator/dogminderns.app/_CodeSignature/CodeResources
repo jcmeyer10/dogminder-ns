@@ -86,7 +86,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		mEF0JuO2KKn0V9CBtX1sEBrQPiU=
+		1A277QgtX5H7cj3f723ZCdOD/F0=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -182,7 +182,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		DF14JRTTAmllhC6PAxX960v8MuY=
+		B5jalbuLnSziCkq4prCzNinbveA=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -190,7 +190,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		3D1HbPBaani24NdNj3MTXUSE90U=
+		wkM4As6XuVB7HPusXjUgbXsML40=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -226,11 +226,11 @@
 		</data>
 		<key>app/app.routing.js</key>
 		<data>
-		Ha2DVlBfDij4Lg3ihW/tCfPV2Gs=
+		2blYwm2hKTWIhf9JhNT9PVNtp6g=
 		</data>
 		<key>app/app.routing.ts</key>
 		<data>
-		VtTkECbag/ZeAOR5voKveYQckD0=
+		KWXyaxwQUOfztWIPUi+slfaeeG8=
 		</data>
 		<key>app/dog/dog-add.component.css</key>
 		<data>
@@ -238,15 +238,15 @@
 		</data>
 		<key>app/dog/dog-add.component.html</key>
 		<data>
-		C6IxYS3SKN5Dk1HJb3m5DN0D1Y4=
+		eGJS7s2/iVnQsvVWLXgSmF3ANAo=
 		</data>
 		<key>app/dog/dog-add.component.js</key>
 		<data>
-		OgBWlza1DictXPJiBE0YCQAU/6M=
+		B6TrFBDHbqCde/Fi+SATIjAiFgw=
 		</data>
 		<key>app/dog/dog-add.component.ts</key>
 		<data>
-		7PTgHZPS0/MhDkAK8fOLP0gKnH0=
+		ags7ejyns3QMs6z3SzO72jhympk=
 		</data>
 		<key>app/dog/dog-detail.component.html</key>
 		<data>
@@ -254,11 +254,11 @@
 		</data>
 		<key>app/dog/dog-detail.component.js</key>
 		<data>
-		k46yeqJaylS94z5PH6CAw4mTCuQ=
+		drEte21DGo4evpSNDT78U07pVR4=
 		</data>
 		<key>app/dog/dog-detail.component.ts</key>
 		<data>
-		xPwyZB5RBgme63/MdfQUgKMTK6k=
+		dWeO42qhhiCCb/H7qwenCjffAv4=
 		</data>
 		<key>app/dog/dog.js</key>
 		<data>
@@ -266,11 +266,11 @@
 		</data>
 		<key>app/dog/dog.service.js</key>
 		<data>
-		uf//6MhBrLfeLytVo2e4URxF0OQ=
+		CEE9/6m/BNMrsfjXRsyI0XVCw5A=
 		</data>
 		<key>app/dog/dog.service.ts</key>
 		<data>
-		Fu2G6br4Hc6Tbrf+dyLkCmX0oYI=
+		UWmxQXkGaNATd0yREAi1k/ortNA=
 		</data>
 		<key>app/dog/dog.ts</key>
 		<data>
@@ -278,15 +278,15 @@
 		</data>
 		<key>app/dog/dogs.component.html</key>
 		<data>
-		cvRR+UWd8H/oQc1X93UuAjIPHDo=
+		ksxmVPwQ8qEGxKCzKafuKIFKTbA=
 		</data>
 		<key>app/dog/dogs.component.js</key>
 		<data>
-		ik6TXvMmCPr5fGe/rbAvbLejNxg=
+		Ap4+dHm4lYys7JV7slJxTNK7f/M=
 		</data>
 		<key>app/dog/dogs.component.ts</key>
 		<data>
-		C2ZDmK7eJlYWvqY4c3jXJGA8zmI=
+		FWac+9OpnVcpBzB3Zhf+oaNFN8Q=
 		</data>
 		<key>app/main.aot.ts</key>
 		<data>
@@ -11332,6 +11332,10 @@
 		<data>
 		eLrct00QRqG8jIO+N6ZuSAdNT48=
 		</data>
+		<key>app/user/user.component.html</key>
+		<data>
+		6ue0zO1WgINJJPs9zIKqd9mpYeA=
+		</data>
 		<key>build.xcconfig</key>
 		<data>
 		JWO3NQlntze55FFPjdsav+EU/L8=
@@ -11572,11 +11576,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mEF0JuO2KKn0V9CBtX1sEBrQPiU=
+			1A277QgtX5H7cj3f723ZCdOD/F0=
 			</data>
 			<key>hash2</key>
 			<data>
-			/KUjo+Fl+VheQ5DMBJftEcgB55VSNbszbmyvK9HACuA=
+			S1im6oTARIc4OChnaiB0n/TDgsHYidjTV5aJwZQ9b9g=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -11825,11 +11829,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DF14JRTTAmllhC6PAxX960v8MuY=
+			B5jalbuLnSziCkq4prCzNinbveA=
 			</data>
 			<key>hash2</key>
 			<data>
-			HQTFIZ4xkvscsB0UYxpRItlF91iaSCCnfTPVKy5nvZ8=
+			TVBRD3Y5OIGTDwlulw00ZshETu5rEEMY5iQGuUfMrLw=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -11847,11 +11851,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3D1HbPBaani24NdNj3MTXUSE90U=
+			wkM4As6XuVB7HPusXjUgbXsML40=
 			</data>
 			<key>hash2</key>
 			<data>
-			69KhjP54rXqBbN+5MNzMNlNftrWoeJkycxCXcAFveuI=
+			RSsGRTrE3BsZlnj7leGU4wpM2Ylr6rMq5DIMwAyjd3I=
 			</data>
 		</dict>
 		<key>app/README.md</key>
@@ -11935,22 +11939,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ha2DVlBfDij4Lg3ihW/tCfPV2Gs=
+			2blYwm2hKTWIhf9JhNT9PVNtp6g=
 			</data>
 			<key>hash2</key>
 			<data>
-			PnaWGEtKkL08nBjINGXPDvEh3uGP/fMNvTabRL/VXmM=
+			m4rhDsLYYf+qDyreFhBf2R4yi4y1GryIpdYW+fXdBRI=
 			</data>
 		</dict>
 		<key>app/app.routing.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VtTkECbag/ZeAOR5voKveYQckD0=
+			KWXyaxwQUOfztWIPUi+slfaeeG8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZZMyp30rcfLC88JU95mhecGzKkF47f2dx0Ke+3mRBZY=
+			YLo+Jr+JdqZeiIRnX65nk+VNQbBlcMrcux4yE8YocxQ=
 			</data>
 		</dict>
 		<key>app/dog/dog-add.component.css</key>
@@ -11968,33 +11972,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C6IxYS3SKN5Dk1HJb3m5DN0D1Y4=
+			eGJS7s2/iVnQsvVWLXgSmF3ANAo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ntm+mjcKq/8to//jkPgj4R6cHez/cl+ks+7xX3W3YD4=
+			vfpVUP42dG9QJPuS+85TUwDsj5DeSdSEmIuThwOhD3A=
 			</data>
 		</dict>
 		<key>app/dog/dog-add.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OgBWlza1DictXPJiBE0YCQAU/6M=
+			B6TrFBDHbqCde/Fi+SATIjAiFgw=
 			</data>
 			<key>hash2</key>
 			<data>
-			MXtGPpdzBzPx6RV9jxOUnKcNlBR9WlxhWiekSN8GbFg=
+			eC8tUqj/7RiPMoe174yEO48b1qoN8grYY3QjY3Gx2gY=
 			</data>
 		</dict>
 		<key>app/dog/dog-add.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7PTgHZPS0/MhDkAK8fOLP0gKnH0=
+			ags7ejyns3QMs6z3SzO72jhympk=
 			</data>
 			<key>hash2</key>
 			<data>
-			UvHrheR3/Pb7WaBaJp72NJ0cacX5WG3foUg5qkf0G2s=
+			7G9Rsj2l8qDlphB4o6UCLakSGGMumks34nRwJTdYkxM=
 			</data>
 		</dict>
 		<key>app/dog/dog-detail.component.html</key>
@@ -12012,22 +12016,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k46yeqJaylS94z5PH6CAw4mTCuQ=
+			drEte21DGo4evpSNDT78U07pVR4=
 			</data>
 			<key>hash2</key>
 			<data>
-			RVp87fk5ixrWZXt0ouT1OW3UG5y95pherTSM9vaeJto=
+			+GE8wqSK/7nyO1qFx7GEfLmop7KRa2MP3hbLpGuEo5w=
 			</data>
 		</dict>
 		<key>app/dog/dog-detail.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xPwyZB5RBgme63/MdfQUgKMTK6k=
+			dWeO42qhhiCCb/H7qwenCjffAv4=
 			</data>
 			<key>hash2</key>
 			<data>
-			LU7fuy7DSUgF/uEfgm/G67VPfkLi18IL1CxCMw8f3M8=
+			m3NzekvsONO9uWBtY98WymRroA3ZEO0OGRjjSsYRFbU=
 			</data>
 		</dict>
 		<key>app/dog/dog.js</key>
@@ -12045,22 +12049,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uf//6MhBrLfeLytVo2e4URxF0OQ=
+			CEE9/6m/BNMrsfjXRsyI0XVCw5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			bzlkD/21fsMtpPLGLExWl+mPhIlM9NxACCZ95tgMLO8=
+			VFx8rnjf5qO6naO7X6UncyFUBHCmJKm5nx2kUDCB01w=
 			</data>
 		</dict>
 		<key>app/dog/dog.service.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fu2G6br4Hc6Tbrf+dyLkCmX0oYI=
+			UWmxQXkGaNATd0yREAi1k/ortNA=
 			</data>
 			<key>hash2</key>
 			<data>
-			2xMc2tS9+dZUqzPjNZJI8QJrsSlJ3fy+RqgmlcHVu70=
+			pmhPtwGpWXsr5O1cW83MV5WkuIjF/YrYHt8k86jJ99w=
 			</data>
 		</dict>
 		<key>app/dog/dog.ts</key>
@@ -12078,33 +12082,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cvRR+UWd8H/oQc1X93UuAjIPHDo=
+			ksxmVPwQ8qEGxKCzKafuKIFKTbA=
 			</data>
 			<key>hash2</key>
 			<data>
-			tpMGLRzsRH7S31oMr48PchRuwSLS67mNH1dz04ZTGWA=
+			okLSfCbnbwfw48IdvPBwHaUHy0u2kvlZ+cKWjCw3WdQ=
 			</data>
 		</dict>
 		<key>app/dog/dogs.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ik6TXvMmCPr5fGe/rbAvbLejNxg=
+			Ap4+dHm4lYys7JV7slJxTNK7f/M=
 			</data>
 			<key>hash2</key>
 			<data>
-			bS9U4wp+/NfUKLTr5NNn6AJoviL8nLjWZ/W5LyctGCg=
+			ibpMbnWOszuMgq2Upn2cYl47kY5dtFvQv7jqXquxrQ8=
 			</data>
 		</dict>
 		<key>app/dog/dogs.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C2ZDmK7eJlYWvqY4c3jXJGA8zmI=
+			FWac+9OpnVcpBzB3Zhf+oaNFN8Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			PJR0s9OS4AVIq+oUfbsy0b/inoZwpZ2NWQBpzKNBwSU=
+			qWcHLCuB7j3qmhV9LcIEbPg6SnvSBn4NzjjfQqC5SqI=
 			</data>
 		</dict>
 		<key>app/main.aot.ts</key>
@@ -42476,6 +42480,17 @@
 			<key>hash2</key>
 			<data>
 			P6WK0z3i90o3txhaRfo72LTUDRlZhnBlU3IXFkXh3x0=
+			</data>
+		</dict>
+		<key>app/user/user.component.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6ue0zO1WgINJJPs9zIKqd9mpYeA=
+			</data>
+			<key>hash2</key>
+			<data>
+			VevFA2Q7zwLHqmj4V5Rb7X7r+0tYcrK/V4YuepOCJ3g=
 			</data>
 		</dict>
 		<key>build.xcconfig</key>

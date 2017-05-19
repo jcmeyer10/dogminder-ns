@@ -10,12 +10,14 @@ import { DogService } from "./dog.service";
     templateUrl: "./dog-add.component.html",
 })
 export class DogAddComponent {
-  name = "Rupert";
+    dog: Dog;
 
-  submit() {
-   console.log(this.name);
+    name = '';
+    breed = '';
 
-  }
+    submit(){
+      console.log(this.name + " the " + this.breed );
+    }
 
     constructor(
         private dogService: DogService,

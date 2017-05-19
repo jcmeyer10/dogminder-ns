@@ -5,13 +5,12 @@ import { Dog } from "./dog";
 @Injectable()
 export class DogService {
     private dogs = new Array<Dog>(
-        { id: 1, name: "Ter Stegen", breed: "Goalkeeper" },
-        { id: 2, name: "Piqué", breed: "Defender" },
-        { id: 3, name: "I. Rakitic", breed: "Midfielder" },
+        { id: 1, name: "Rupert", breed: "Goldendoodle" },
+        { id: 2, name: "Gracie", breed: "Goldendoodle" },
+        { id: 3, name: "Big Ralph", breed: "Goldendoodle" },
     );
 
     getDogs(): Dog[] {
-        console.log("dogs");
         return this.dogs;
     }
 
