@@ -15,6 +15,7 @@ export class DogService {
     }
 
     getDog(id: number): Dog {
+        console.table(Dog.name[1])
         return this.dogs.filter(dog => dog.id === id)[0];
     }
 }

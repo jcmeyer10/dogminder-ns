@@ -6,6 +6,7 @@ import { DogService } from "./dog.service";
 
 @Component({
     selector: "ns-add",
+    providers: [DogService],
     moduleId: module.id,
     templateUrl: "./dog-add.component.html",
 })

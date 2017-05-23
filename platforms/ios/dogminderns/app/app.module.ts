@@ -9,8 +9,8 @@ import { DogsComponent } from "./dog/dogs.component";
 import { DogDetailComponent } from "./dog/dog-detail.component";
 import { DogAddComponent } from "./dog/dog-add.component";
 
-import { UserService } from './user/user.service'
-import { UserComponent } from './user/user.component'
+import { UserService } from './user/user.service';
+import { UserComponent } from './user/user.component';
 
 @NgModule({
     bootstrap: [
