@@ -1,7 +1,10 @@
+<ActionBar title="DogMinder" class="action-bar">
+</ActionBar>
+
 <ListView [items]="dogs" class="list-group">
     <ng-template let-item="item">
       <StackLayout>
-        <Label [text]="item.name" class="list-group-item"></Label>
+        <Label [nsRouterLink]="['/dog', item.id]" [text]="item.name" class="list-group-item"></Label>
       </StackLayout>
     </ng-template>
 </ListView>
