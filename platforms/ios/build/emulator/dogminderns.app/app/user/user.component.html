@@ -1,8 +1,11 @@
-<Stacklayout>
-    <TextField hint="Email Address" keyboardType="email"
-      autocorrect="false" autocapitalizationType="none"></TextField>
-    <TextField hint="Password" secure="true"></TextField>
+<ActionBar title="Dog Minder" class="action-bar">
+</ActionBar>
+<StackLayout class="page">
+<Image src="" stretch="none" horizontalAlignment="center"></Image>
+<TextField hint="Email Address" keyboardType="email"
+        autocorrect="false" autocapitalizationType="none" [(ngModel)]="this.email"></TextField>
+      <TextField hint="Password" secure="true" [(ngModel)]="this.password"></TextField>
 
-    <Button text="Sign in"></Button>
-    <Button text="Sign up for Groceries"></Button>
-</Stacklayout>
+      <Button text="Sign in" (tap)="login()"></Button>
+      <Button text="Sign up for Dog Minder" (tap)="register()"></Button>
+</StackLayout>

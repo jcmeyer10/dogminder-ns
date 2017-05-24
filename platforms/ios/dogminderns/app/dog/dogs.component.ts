@@ -12,10 +12,13 @@ import { DogService } from "./dog.service";
 export class DogsComponent implements OnInit {
     dogs: Dog[];
 
+    onItemLoading(e) {
+        console.log("woo");
+    }
+
     constructor(private dogService: DogService) { }
 
     ngOnInit(): void {
         this.dogs = this.dogService.getDogs();
-        console.table(this.dogs);
     }
 }

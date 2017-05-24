@@ -11,10 +11,11 @@ export class DogService {
     );
 
     getDogs(): Dog[] {
+        console.log(this.dogs[1].breed);
         return this.dogs;
     }
 
     getDog(id: number): Dog {
-        return this.dogs.filter(dog => dog.id === id)[0];
+        return this.dogs.filter(dog => dog.id === id)[1];
     }
 }

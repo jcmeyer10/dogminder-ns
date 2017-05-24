@@ -9,6 +9,9 @@ import { DogsComponent } from "./dog/dogs.component";
 import { DogDetailComponent } from "./dog/dog-detail.component";
 import { DogAddComponent } from "./dog/dog-add.component";
 
+import { UserService } from './user/user.service';
+import { UserComponent } from './user/user.component';
+
 @NgModule({
     bootstrap: [
         AppComponent
@@ -22,10 +25,12 @@ import { DogAddComponent } from "./dog/dog-add.component";
         AppComponent,
         DogsComponent,
         DogDetailComponent,
-        DogAddComponent
+        DogAddComponent,
+        UserComponent
     ],
     providers: [
-        DogService
+        DogService,
+        UserService
     ],
     schemas: [
         NO_ERRORS_SCHEMA
